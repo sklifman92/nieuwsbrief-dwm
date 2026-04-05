@@ -22,6 +22,45 @@
     localStorage.setItem(`dwm_fb_${artikelId}`, waarde);
   }
 
+  // ── Onderwerp suggestie ────────────────────────────────────────────────────
+  const suggestieForm = document.getElementById('suggestie-form');
+  const suggestieInput = document.getElementById('suggestie-input');
+  const suggestieStatus = document.getElementById('suggestie-status');
+
+  suggestieForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const tekst = suggestieInput.value.trim();
+    if (tekst.length < 3) return;
+
+    const btn = document.getElementById('suggestie-btn');
+    btn.disabled = true;
+    btn.textContent = '…';
+
+    try {
+      const res = await fetch('/api/suggestie', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ device_id: getDeviceId(), tekst }),
+      });
+
+      if (res.ok) {
+        suggestieInput.value = '';
+        suggestieStatus.textContent = '✓ Bedankt — jouw suggestie is ontvangen!';
+        suggestieStatus.className = 'suggestie-status suggestie-ok';
+      } else {
+        suggestieStatus.textContent = 'Kon niet opslaan. Probeer opnieuw.';
+        suggestieStatus.className = 'suggestie-status suggestie-err';
+      }
+    } catch {
+      suggestieStatus.textContent = 'Geen verbinding. Probeer opnieuw.';
+      suggestieStatus.className = 'suggestie-status suggestie-err';
+    }
+
+    btn.disabled = false;
+    btn.textContent = 'Insturen';
+    setTimeout(() => { suggestieStatus.className = 'suggestie-status hidden'; }, 4000);
+  });
+
   // ── Feedback naar API sturen ───────────────────────────────────────────────
   async function submitFeedback(artikelId, editieId, waarde) {
     try {

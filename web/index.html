@@ -25,6 +25,29 @@
     </div>
   </header>
 
+  <div class="algoritme-banner">
+    <div class="container">
+      <div class="algoritme-banner-inner">
+        <div class="algoritme-tekst">
+          <span class="algoritme-icon">🧠</span>
+          <span><strong>Help meebouwen aan het algoritme</strong> — geef onderaan elk artikel aan of je het nuttig vond.</span>
+        </div>
+        <form class="suggestie-form" id="suggestie-form" novalidate>
+          <input
+            type="text"
+            id="suggestie-input"
+            class="suggestie-input"
+            placeholder="Welk onderwerp mis je?"
+            maxlength="500"
+            aria-label="Onderwerp dat je mist"
+          />
+          <button type="submit" class="suggestie-btn" id="suggestie-btn">Insturen</button>
+        </form>
+        <p id="suggestie-status" class="suggestie-status hidden"></p>
+      </div>
+    </div>
+  </div>
+
   <main class="container">
     <div id="loading" class="loading">
       <div class="spinner"></div>
