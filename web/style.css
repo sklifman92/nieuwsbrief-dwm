@@ -4,6 +4,8 @@
   --brand: #c1440e;
   --brand-light: #f9ede8;
   --brand-dark: #8b2f09;
+  --header-bg: #1a3a5c;
+  --header-bg-dark: #122944;
   --text: #1a1a1a;
   --text-muted: #6b6b6b;
   --border: #e5e5e5;
@@ -27,7 +29,7 @@ body {
 
 /* ── Algoritme banner ── */
 .algoritme-banner {
-  background: #1a1a1a;
+  background: var(--header-bg-dark);
   color: #fff;
   padding: 12px 0;
   font-size: 14px;
@@ -99,7 +101,7 @@ body {
 
 /* ── Header ── */
 .site-header {
-  background: var(--brand);
+  background: var(--header-bg);
   color: #fff;
   padding: 20px 0;
   position: sticky;
