@@ -28,7 +28,7 @@ export default async function handler(req, res) {
         apikey: process.env.SUPABASE_ANON_KEY,
         Authorization: `Bearer ${process.env.SUPABASE_ANON_KEY}`,
         'Content-Type': 'application/json',
-        Prefer: 'resolution=ignore-duplicates',
+        Prefer: 'return=minimal',
       },
       body: JSON.stringify({ artikel_id, editie_id, device_id, waarde }),
     });
