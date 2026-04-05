@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-04-05T07:41:26.489718+00:00",
+  "latest": "2026-W14",
+  "edities": [
+    {
+      "id": "2026-W14",
+      "jaar": 2026,
+      "weeknummer": 14,
+      "datum_publicatie": "2026-04-05",
+      "status": "gepubliceerd",
+      "aantal_artikelen": 16,
+      "path": "data/edities/2026-W14/editie.json"
+    }
+  ]
+}

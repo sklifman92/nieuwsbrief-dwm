@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nieuwsbrief DWM — Warmtetransitie</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="logo">
+          <span class="logo-icon">♨</span>
+          <div>
+            <span class="logo-title">DWM Nieuwsbrief</span>
+            <span class="logo-subtitle">Warmtetransitie in Nederland</span>
+          </div>
+        </div>
+        <div id="editie-badge" class="editie-badge"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="loading" class="loading">
+      <div class="spinner"></div>
+      <p>Nieuwsbrief laden…</p>
+    </div>
+
+    <div id="content" class="hidden">
+      <section id="highlights-section" class="highlights-section">
+        <h2 class="section-label">Deze week</h2>
+        <ul id="highlights-list" class="highlights-list"></ul>
+      </section>
+
+      <section id="hero-section"></section>
+
+      <div id="categories-section" class="categories-grid"></div>
+    </div>
+
+    <div id="error" class="hidden error-state">
+      <p>Kon de nieuwsbrief niet laden. Probeer de pagina te verversen.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>DWM Nieuwsbrief — Warmtetransitie &middot; Week <span id="footer-week"></span></p>
+    </div>
+  </footer>
+
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="modal-content">
+      <button class="modal-close" id="modal-close" aria-label="Sluiten">&times;</button>
+      <div class="modal-img-wrap">
+        <img id="modal-img" src="" alt="" />
+      </div>
+      <div class="modal-body">
+        <span id="modal-categorie" class="categorie-tag"></span>
+        <h2 id="modal-titel"></h2>
+        <p id="modal-lead" class="modal-lead"></p>
+        <div id="modal-text" class="modal-text"></div>
+        <div id="modal-pijlers" class="pijler-list"></div>
+        <div id="modal-bronnen" class="modal-bronnen"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

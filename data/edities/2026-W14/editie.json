@@ -1,0 +1,822 @@
+{
+  "editie": "2026-W14",
+  "jaar": 2026,
+  "weeknummer": 14,
+  "datum_start": "2026-03-30",
+  "datum_eind": "2026-04-05",
+  "datum_publicatie": "2026-04-05",
+  "highlights": [
+    "NPLW organiseert op 20 april een webinar om gemeenten te helpen hun warmteplannen concreet te maken.",
+    "Gemeenten moeten grootschalige warmteopslag meenemen in hun warmteprogramma's, wat vragen oplevert over technieken en in",
+    "De Rijksdienst voor Ondernemend Nederland (RVO) heeft een nieuwe quickscan ontwikkeld die gemeenten, energiecoöperaties ",
+    "De Rijksdienst voor Ondernemend Nederland (RVO) heeft een ZLT-quickscan ingeleverd om gemeenten te helpen met de verkenn",
+    "Gemeenten en experts delen inzichten over geothermieprojecten en de praktische uitdagingen hiervan.",
+    "Gemeenten moeten rekening houden met de rol van de gemeenteraad bij het vaststellen van het warmteprogramma, aangezien d"
+  ],
+  "artikelen": [
+    {
+      "id": "2026-W14-01",
+      "categorie": "Onderzoek & wetenschap",
+      "titel": "NPLW: Webinar over uitvoeringsparagraaf warmteprogramma",
+      "lead": "NPLW organiseert op 20 april een webinar om gemeenten te helpen hun warmteplannen concreet te maken.",
+      "body": "In samenwerking met CE Delft houdt NPLW een webinar over de uitvoeringsparagraaf van het warmteprogramma. De sessie richt zich op het concrete implementeren van plannen, inclusief begroting, planning, organisatieopbouw en risicomatrix. Er worden praktische voorbeelden getoond en is er ruimte voor vragen aan experts. Deze webinar biedt gemeenten een waardevolle kennisoverdracht om hun warmteprojecten succesvol te laten gaan.",
+      "is_hero": true,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/laatste-sessie-ondersteuningsaanbod-warmteprogramma-in-de-regio-wees-erbij",
+          "type": "extern",
+          "datum_publicatie": "2026-03-31",
+          "img_url": "https://www.nplw.nl/uploads/Eenmalig-gebruik/2025/_840x470_crop_center-center_80_none/20215/131124-LR-62-Utiliteit.webp"
+        }
+      ],
+      "woorden": 58,
+      "pijlers": [
+        "research",
+        "projecten",
+        "smart-grid"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Bronherleidbaar en gecontroleerd"
+      }
+    },
+    {
+      "id": "2026-W14-02",
+      "categorie": "Onderzoek & wetenschap",
+      "titel": "Webinar over grootschalige warmteopslag voor warmtenetten",
+      "lead": "Gemeenten moeten grootschalige warmteopslag meenemen in hun warmteprogramma's, wat vragen oplevert over technieken en integratie. Dit webinar bespreekt de belangrijkste resultaten van interviews met gemeenten en financiers.",
+      "body": "De Royal Netherlands Science Organization (NWO) organiseert een webinar over grootschalige warmteopslag voor warmtenetten, een onderwerp dat cruciaal is voor de toekomst van warmteinfrastructuur. Gemeenten moeten deze techniek meenemen in hun programma's en plannen, wat leidt tot vragen over geschikte technieken, planning en mogelijke obstakels.\n\nDe webinar richt zich op gemeenten (energieplanologen, beleidsmakers), financiers (groeninvesteerders), adviesbureaus, onderzoeksinstellingen, energiebedrijven, leveranciers van warmteonderdelen en Energy Service Companies. Tijdens het evenement worden de belangrijkste resultaten van interviews met gemeenten en financiers besproken, waarbij de kennisgatenvragen rond grootschalige warmteopslag worden aangeleverd.\n\nDoor deze informatie te delen, kunnen alle betrokken partijen hun besluitvorming verbeteren over warmtenetten en warmteopslag in wijken. Daarnaast creëert dit webinar kansen voor het internationaal delen van kennis en producten over technologieën voor ondergrondse warmteopslag.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "RVO",
+          "url": "https://www.rvo.nl/evenementen/webinar-warmteopslag-warmtenetten",
+          "type": "extern",
+          "datum_publicatie": "2026-03-30",
+          "img_url": "https://www.rvo.nl/evenementen/:/www.rvo.nl/files/file/2026-01/Gedetailleerd%20beeld%20van%20warmtepomp%20en%20isolatiemateriaal.jpg"
+        }
+      ],
+      "woorden": 124,
+      "pijlers": [
+        "research",
+        "projecten"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Artikel klopt volledig met bron"
+      }
+    },
+    {
+      "id": "2026-W14-03",
+      "categorie": "Technologie & innovatie",
+      "titel": "Nieuwe quickscan ZLT-netten toont duurzame warmte- en koudenetten aan",
+      "lead": "De Rijksdienst voor Ondernemend Nederland (RVO) heeft een nieuwe quickscan ontwikkeld die gemeenten, energiecoöperaties en andere geïnteresseerden helpt bij het beoordelen van de mogelijkheden van duurzame warmte- en koudenetten in hun gebied.",
+      "body": "De quickscan laat zien waar ZLT-netten (Zeerlagetemperatuur-warmtenetten) mogelijk zijn. Deze netten kunnen een belangrijke rol spelen bij het verduurzamen van gebouwen, omdat ze warmte en koude transporteren en opslaan om gebouwen te verwarmen of te koelen. Ze ondersteunen doelen als betaalbare en duurzame energie, duurzame steden en gemeenschappen, en klimaatactie.\n\nDe quickscan beoordeelt per locatie vier aspecten: gebouwdichtheid, grootte en afstand tot warmtebronnen, isolatiekwaliteit van de schil van het gebouw, en hoeveel koeling gebouwen nodig hebben. Een kaart geeft aan hoe geschikt een locatie is voor ZLT-netten. Het quickscanrapport selecteert meerdere locaties en biedt informatie over die gebieden.\n\nDe quickscan kijkt niet naar kosten, opbrengsten of lokale bijzonderheden, en is geen eindadvies. Vaak is vervolgonderzoek nodig, bijvoorbeeld met hulp van een energieadviseur.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "RVO",
+          "url": "https://www.rvo.nl/nieuws/quickscan-laat-mogelijkheden-warmte-en-koudenetten-zien",
+          "type": "extern",
+          "datum_publicatie": "2026-03-25",
+          "img_url": "https://www.rvo.nl/nieuws/:/www.rvo.nl/files/file/2025-03/ZLT%20warmtenet%20Heerlen.jpg"
+        }
+      ],
+      "woorden": 125,
+      "pijlers": [
+        "ZLT",
+        "subsidies",
+        "research",
+        "projecten",
+        "technologie-product"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Artikel klopt met bron over ZLT-netten en quickscan."
+      }
+    },
+    {
+      "id": "2026-W14-04",
+      "categorie": "Technologie & innovatie",
+      "titel": "ZLT-quickscan helpt bij warmteprojecten",
+      "lead": "De Rijksdienst voor Ondernemend Nederland (RVO) heeft een ZLT-quickscan ingeleverd om gemeenten te helpen met de verkenning van zeer lage temperatuur-netten (ZLT).",
+      "body": "Tijdens het ondersteuningsaanbod warmteprogramma in mei en juni 2026, organiseert NPLW bijeenkomsten om actuele vragen te bespreken. De laatste sessie richt zich op de afsluiting van het programma. Tegelijkertijd houdt de Kennismiddag Aardwarmte op 5 februari een verdieping in kansen en gemeentelijke rol bij aardwarmteprojecten. Een nieuwe tool, de ZLT-quickscan, biedt snel inzicht in de duurzaamheid van warmte- en koudenetten met zeer lage temperatuur (ZLT). Deze quickscan helpt gemeenten en andere partijen bij het beoordelen of een ZLT-net geschikt is voor hun specifieke omgeving.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/impressie-werkbezoek-publiek-warmtebedrijf-hvc-drechtsteden",
+          "type": "extern",
+          "datum_publicatie": "2026-03-19",
+          "img_url": "https://www.nplw.nl/uploads/Eenmalig-gebruik/2025/_187x105_crop_center-center_80_none/20215/131124-LR-62-Utiliteit.webp"
+        }
+      ],
+      "woorden": 86,
+      "pijlers": [
+        "ZLT",
+        "subsidies",
+        "beleid-HT-MT",
+        "projecten"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Alle checks voldaan."
+      }
+    },
+    {
+      "id": "2026-W14-05",
+      "categorie": "Projecten & praktijk",
+      "titel": "Kennismiddag aardwarmte: ontwikkelingen en praktijkervaringen",
+      "lead": "Gemeenten en experts delen inzichten over geothermieprojecten en de praktische uitdagingen hiervan.",
+      "body": "In plenaire sessies en vier deelsessies stonden actuele ontwikkelingen in de aardwarmtesector centraal. Deelnemers kregen inzicht in de mogelijkheden en uitdagingen van geothermie, de route naar projectontwikkeling en de verschillende rollen die gemeenten kunnen pakken. Ook deelden gemeenten en experts hun praktijkervaringen over het realiseren van aardwarmteprojecten.\n\nDaarnaast werd er aandacht besteed aan wet- en regelgeving, zoals de Mijnbouwwet, de Omgevingswet en de Wet collectieve warmte. Ook kwamen ruimtelijke inpassing, bewonersparticipatie en het bouwen aan maatschappelijke draagkracht aan bod. De middag was geschikt voor oriënterende gemeenten die een overzicht willen krijgen van de mogelijkheden, evenals voor gemeenten die praktische handvatten zoeken voor concrete projecten.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/terugblik-kennismiddag-aardwarmte",
+          "type": "extern",
+          "datum_publicatie": "2026-03-19",
+          "img_url": "https://www.nplw.nl/uploads/Warmteprogramma/_840x470_crop_center-center_80_none/50359/kennismiddag-aardwarmte.webp"
+        }
+      ],
+      "woorden": 104,
+      "pijlers": [
+        "projecten",
+        "smart-grid"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Inhoud volgt nauw op bronmateriaal."
+      }
+    },
+    {
+      "id": "2026-W14-06",
+      "categorie": "Beleid & regelgeving",
+      "titel": "Transitievisie warmte en warmteprogramma: een duidelijke weg",
+      "lead": "Gemeenten moeten rekening houden met de rol van de gemeenteraad bij het vaststellen van het warmteprogramma, aangezien deze bevoegd is om de transitievisie warmte in te trekken.",
+      "body": "Het warmteprogramma wordt onder de Omgevingswet vastgesteld door het college, terwijl de transitievisie warmte eerder is vastgesteld door de gemeenteraad. Dit betekent dat de raad bevoegd is om deze visie formeel in te trekken of te vervangen. Als de raad geen besluit neemt, blijven beide documenten naast elkaar bestaan. Gemeenten kunnen er dus voor kiezen om bij het vaststellen van het warmteprogramma een besluit voor te bereiden richting de raad met een verzoek om de transitievisie warmte gelijktijdig in te trekken.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/transitievisie-warmte-bij-vaststelling-warmteprogramma",
+          "type": "extern",
+          "datum_publicatie": "2026-03-17",
+          "img_url": "https://www.nplw.nl/uploads/Eenmalig-gebruik/2026/_840x470_crop_center-center_80_none/52412/Microfoon_in_raadszaal_Utrecht.webp"
+        }
+      ],
+      "woorden": 81,
+      "pijlers": [
+        "beleid-NL"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Inhoud volgt nauwkeurig bron."
+      }
+    },
+    {
+      "id": "2026-W14-07",
+      "categorie": "Beleid & regelgeving",
+      "titel": "Webinar: Wet collectieve warmte en all-electric oplossingen",
+      "lead": "De Wet collectieve warmte (Wcw) is aangenomen en de eerste webinars delen inzichten over de uitvoering en aanpakken van all-electric-oplossingen.",
+      "body": "In een recent webinar werd gekeken naar de laatste ontwikkelingen rondom de Wet collectieve warmte, die op 9 december 2025 door de Eerste Kamer is aangenomen. De wet richt zich op het bevorderen van de energietransitie en zorgt voor betaalbaarheid, betrouwbaarheid en duurzaamheid in de collectieve warmtelevering. Een andere webinar focuste zich op all-electric-oplossingen: ongeveer 30% van Nederlandse woningen zal toekomstig worden verwarmd door elektrische systemen. Hierin werden verschillende aanpakken besproken, inclusief een gerichte doelgroepenaanpak of een focus op warmtetransitiegebieden.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/webinar-modelrapportage-mer-bij-het-warmteprogramma-terugkijken",
+          "type": "extern",
+          "datum_publicatie": "2026-03-10",
+          "img_url": "https://www.nplw.nl/dist/images/zet-de-knop-om.png"
+        }
+      ],
+      "woorden": 82,
+      "pijlers": [
+        "beleid-NL",
+        "subsidies",
+        "research"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Alle checks voldaan."
+      }
+    },
+    {
+      "id": "2026-W14-08",
+      "categorie": "Netbeheer & congestie",
+      "titel": "Horeca en bakkers meenemen in de warmtetransitie",
+      "lead": "Gemeenten moeten zich richten op ondersteuning van horeca- en bakkerbedrijven bij de overgang naar aardgasvrije apparatuur, gezien netcongestie en beperkte elektriciteitsaansluitingen.",
+      "body": "Het opstellen van plannen moet rekening houden met hogere elektriciteitsvragen bij bedrijven. Gemeenten kunnen verbinding zoeken met bedrijven, ondernemers en plannen, en afstemmen met netbeheerders. Ondernemers kunnen energieverbruik verlagen door samenwerking met netbeheerders of energyhubs.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/horeca-en-bakkers-meenemen-in-de-warmtetransitie",
+          "type": "extern",
+          "datum_publicatie": "2026-03-05",
+          "img_url": "https://www.nplw.nl/uploads/Eenmalig-gebruik/2026/_840x470_crop_center-center_80_none/51500/Horeca-en-bakkers.webp"
+        }
+      ],
+      "woorden": 35,
+      "pijlers": [
+        "netcongestie",
+        "beleid-NL",
+        "subsidies",
+        "projecten"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Alle checks voldaan."
+      }
+    },
+    {
+      "id": "2026-W14-09",
+      "categorie": "Beleid & regelgeving",
+      "titel": "Template businesscase warmtenetten bijgewerkt",
+      "lead": "RVO, NPLW en Berenschot organiseren een vragenuur over de vernieuwde template businesscase voor warmtenetten, die nu extra functionaliteit biedt inzake financieringsvormen en projectspecifieke kosten.",
+      "body": "Op donderdag 19 maart organiseert RVO, NPLW en Berenschot een vragenuur over de bijgewerkte template businesscase voor warmtenetten. De nieuwe versie van het template bevat extra tabbladen om verschillende scenario's te modelleren, kostprijsgebaseerde tarieven te berekenen en specifieke financieringsvormen in te voeren. Bovendien kan men nu energieprijzen gedurende de exploitatieperiode modelleren, projectspecifieke CAPEX, OPEX en subsidies invoeren, en de kosten voor eindgebruikers presenteren. De defaultwaarden zijn ook aangepast. Deze verbeteringen maken het template een nuttig hulpmiddel voor projectontwikkelaars om financiële haalbaarheid te beoordelen.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/update-template-businesscase-warmtenetten-en-vragenuur",
+          "type": "extern",
+          "datum_publicatie": "2026-03-04",
+          "img_url": "https://www.nplw.nl/uploads/Headerbeelden/_187x105_crop_center-center_80_none/1057/Warmteprogramma.webp"
+        }
+      ],
+      "woorden": 84,
+      "pijlers": [
+        "subsidies",
+        "projecten"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Alle punten overeenkomstig bron."
+      }
+    },
+    {
+      "id": "2026-W14-10",
+      "categorie": "Technologie & innovatie",
+      "titel": "151 warmtenetten in ontwikkeling in Nederland",
+      "lead": "Nieuw rapport van het Nationaal Programma Lokale Warmtetransitie (NPLW) en de Rijksdienst voor Ondernemend Nederland (RVO) toont aan dat er momenteel 151 warmtenetprojecten in ontwikkeling zijn in Nederland.",
+      "body": "Verspreid over heel Nederland zijn 151 warmtenetprojecten in verschillende fasen van ontwikkeling. De meeste netten komen in stedelijke gebieden, zoals de Randstad, Noord-Brabant en Groningen. Bijvoorbeeld, in Twente werken gemeenten en regionale partners aan een regionaal warmtenet dat warmte gebruikt van een lokale afvalverwerker. In Groningen en Zuid-Limburg worden er regio's samenwerkend aan grote netten gewerkt. Van de 151 warmtenetten zijn ongeveer 28 in ontwikkeling, 35 in uitvoering en 79 nog bezig met het uitwerken van hun plan. Ongeveer een derde van de projecten betrekken bewoners, die investeren of mee denken over het ontwerp.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "RVO",
+          "url": "https://www.rvo.nl/nieuws/rapport-warmtenetten-ontwikkeling-nederland",
+          "type": "extern",
+          "datum_publicatie": "2026-02-24",
+          "img_url": "https://www.rvo.nl/_next/image?url=%2Ffiles%2Ffile%2Fstyles%2Fcontent%2Fpublic%2F2025-06%2FHoogspanning%2520expertpool.jpg"
+        }
+      ],
+      "woorden": 97,
+      "pijlers": [
+        "ZLT",
+        "beleid-NL",
+        "subsidies",
+        "research",
+        "projecten",
+        "smart-grid",
+        "technologie-systeem"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Inhoud volgt nauw op bron."
+      }
+    },
+    {
+      "id": "2026-W14-11",
+      "categorie": "Beleid & regelgeving",
+      "titel": "Warmtenetten in ontwikkeling: een nieuw overzicht",
+      "lead": "Het NPLW heeft een nieuw overzicht van projecten en initiatieven voor warmtenetten gepubliceerd, inclusief subsidies en research. Dit biedt inzicht in de toekomstige ontwikkelingen.",
+      "body": "Het NPLW heeft een dataset gepubliceerd dat initiatieven van overheden en lokale bewoners bundelt. Het overzicht omvat nieuwe projecten en uitbreidingen, met focus op bestaande bouw in combinatie met nieuwbouw. De informatie bevat locaties, planning en kenmerken zoals het aantal aan te sluiten woningen. Hoewel momentopnames zijn, kan er sprake zijn van stoppen of vertraging bij projecten. Een rapport van RVO en NPLW toont een analyse met figuren en grafieken, gegeven in de tool Warmteprojectentool.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/warmtenetten-in-ontwikkeling-een-vernieuwd-overzicht",
+          "type": "extern",
+          "datum_publicatie": "2026-02-23",
+          "img_url": "https://www.nplw.nl/uploads/Warmtenet/_840x470_crop_center-center_80_none/7310/Aanleg-warmtenet-Purmerend.webp"
+        }
+      ],
+      "woorden": 75,
+      "pijlers": [
+        "subsidies",
+        "research",
+        "projecten",
+        "smart-grid"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Alle informatie klopt met bron."
+      }
+    },
+    {
+      "id": "2026-W14-12",
+      "categorie": "Onderzoek & wetenschap",
+      "titel": "Modelrapportage plan-MER beschikbaar",
+      "lead": "De modelrapportage voor het mer-warmteprogramma is nu beschikbaar na samenvoeging van ervaringen uit Utrecht en andere gemeenten.",
+      "body": "De modelrapportage, gebaseerd op de praktijkervaringen met plan-MER in Utrecht, aangevuld met inzichten van de Commissie mer en bevindingen uit andere gemeenten, is nu beschikbaar. Deze documentatie werd ontwikkeld in samenwerking met Antea Group. Aanvullende ondersteunende documenten, waaronder een startnotitie, een gebruikshandleiding en een logboek voor afwijkingen, zijn ook geproduceerd om gemeenten beter te helpen bij het uitvoeren van hun warmteprogramma's. Een standaard opdrachtomschrijving zal later volgen om de werken aan adviesbureaus verder te vereenvoudigen.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/modelrapportage-plan-mer-warmteprogramma-beschikbaar",
+          "type": "extern",
+          "datum_publicatie": "2026-02-19",
+          "img_url": "https://www.nplw.nl/uploads/Headerbeelden/_187x105_crop_center-center_80_none/1057/Warmteprogramma.webp"
+        }
+      ],
+      "woorden": 77,
+      "pijlers": [
+        "research",
+        "projecten"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Alle informatie klopt met bron."
+      }
+    },
+    {
+      "id": "2026-W14-13",
+      "categorie": "Netbeheer & congestie",
+      "titel": "Warmtepompeigenaren met dynamisch energiecontract sturen slimmer",
+      "lead": "Huishoudens met een dynamisch energiecontract gebruiken vaker een systeem om hun warmtepomp slim aan te sturen, waardoor ze op hun energiekosten kunnen besparen.",
+      "body": "Onderzoek onder 1.818 warmtepompeigenaren in oktober 2025 heeft getoond dat huishoudens met een dynamisch energiecontract vaker gebruik maken van slimme sturing voor hun warmtepomp dan huishoudens zonder zo'n contract. Van de warmtepompeigenaren met een dynamisch energiecontract maakt 19% gebruik van slimme sturing, in tegenstelling tot slechts 6% bij deelnemers zonder zo'n contract. Slimme sturing kan zorgen voor lagere energiekosten, hogere warmteopbrengst en minder geluidshinder, en helpt ook om netcongestie te voorkomen.\n\nDeelnemers noemen het besparen van energiekosten als belangrijkste reden om slimme sturing te kiezen. Een groot deel van de deelnemers raadt warmtepompen aan, met name door hun pluspunten zoals minder energieverbruik en een duurzamer huis.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "RVO",
+          "url": "https://www.rvo.nl/nieuws/warmtepompeigenaren-dynamisch-energiecontract-sturen-slimmer",
+          "type": "extern",
+          "datum_publicatie": "2026-02-04",
+          "img_url": "https://www.rvo.nl/nieuws/:/www.rvo.nl/files/file/2025-01/Afbeelding%20nieuwsbericht%20warmtepompen.jpg"
+        }
+      ],
+      "woorden": 109,
+      "pijlers": [
+        "netcongestie",
+        "beleid-NL",
+        "subsidies",
+        "research",
+        "smart-grid",
+        "technologie-product"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Checken volgens bron over slimme sturing en warmtepompen."
+      }
+    },
+    {
+      "id": "2026-W14-14",
+      "categorie": "Beleid & regelgeving",
+      "titel": "Dataportaal Warmtetransitie: betere samenwerking via uniforme informatie",
+      "lead": "Het Dataportaal Warmtetransitie, dat in 2026 op de RVO-website zal verschijnen, biedt een unieke kijk op lokale warmtetransitieplannen. Het bevordert betere samenwerking tussen gemeenten en andere partijen.",
+      "body": "Het Dataportaal Warmtetransitie, dat in 2026 beschikbaar zal zijn, helpt gemeenten om uniforme basisinformatie over hun warmteprogramma’s te vangen en te delen. Dit systeem vervangt de tvw-database en het eerder aangekondigde landelijk register. Door deze informatie op een uniforme manier beschikbaar te maken, wordt de toegankelijkheid en toepasbaarheid van de gegevens verhoogd. Tussen gemeenten kan er gemakkelijker worden getoetst wat anderen doen in het gebied van lokale warmtetransitie, waardoor betere samenwerking mogelijk wordt.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/dataportaal-warmtetransitie-inzicht-in-lokale-plannen-op-%C3%A9%C3%A9n-plek",
+          "type": "extern",
+          "datum_publicatie": "2026-02-03",
+          "img_url": "https://www.nplw.nl/uploads/Data-en-monitoring/_840x470_crop_center-center_80_none/49784/Dashboard-dataportaal-warmtetransitie.webp"
+        }
+      ],
+      "woorden": 75,
+      "pijlers": [
+        "beleid-NL",
+        "subsidies",
+        "projecten",
+        "technologie-product"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Artikel klopt volledig met bron."
+      }
+    },
+    {
+      "id": "2026-W14-15",
+      "categorie": "Beleid & regelgeving",
+      "titel": "Meer tijd voor subsidieaanvraag warmtenetten",
+      "lead": "Ondernemers krijgen totdat 30 augustus om hun aanvraag in te dienen voor de Warmtenetten Investeringssubsidie (WIS), wat meer tijd biedt voor een zorgvuldige voorbereiding.",
+      "body": "De Warmtenetten Investeringssubsidie (WIS) blijft langer open dan gepland. Ondernemers kunnen nu tot en met 30 augustus hun aanvraag indienen bij Rijksdienst voor Ondernemend Nederland (RVO). De geplande sluitingsdatum was oorspronkelijk 16 januari, maar werd verlengd na aantekeningen van initiatiefnemers die hun aanvraag binnen de periode niet goed konden voorbereiden. Er is nog ongeveer €150 miljoen beschikbaar uit het budget van bijna 75%.\n\nDe Wet Collectieve Warmte, aangenomen op 9 december 2025, brengt veranderingen teweeg die waarschijnlijk leiden tot aanpassingen in de volgende subsidieronde. De latere sluitingsdatum geeft het ministerie en RVO de tijd om deze veranderingen goed voor te bereiden. Ondernemers kunnen meedenken op 3 februari tijdens een marktconsultatie in Utrecht.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "RVO",
+          "url": "https://www.rvo.nl/nieuws/meer-tijd-voor-subsidieaanvraag-warmtenetten",
+          "type": "extern",
+          "datum_publicatie": "2026-01-21",
+          "img_url": "https://www.rvo.nl/nieuws/:/www.rvo.nl/files/file/2025-06/Afbeelding%20nieuwsbericht%20WIS.jpg"
+        }
+      ],
+      "woorden": 112,
+      "pijlers": [
+        "beleid-NL",
+        "subsidies",
+        "smart-grid"
+      ],
+      "truth_check": {
+        "status": "geverifieerd",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": true,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Artikel klopt met bron"
+      }
+    },
+    {
+      "id": "2026-W14-16",
+      "categorie": "Onderzoek & wetenschap",
+      "titel": "Slimme mix van isoleren en warmtepompen versnelt warmtetransitie",
+      "lead": "TNO adviseert een combinatie van isolatie en warmtepomp voor snellere verduurzaming van huurwoningen, wat de klimaatdoelen in 2050 kan versnellen.",
+      "body": "Op dit moment gaat de verduurzaming van sociale huurwoningen te langzaam om de doelen voor 2050 te halen. Volgens TNO is het veel efficiënter om isolatie direct te combineren met een warmtepomp, in plaats van eerst volledig te isoleren voordat een warmtepomp wordt geïnstalleerd. Deze aanpak kan meer woningen sneller verduurzamen en leidt tot lagere energielasten voor bewoners.",
+      "is_hero": false,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/slimme-mix-van-isoleren-en-warmtepompen-versnelt-warmtetransitie",
+          "type": "extern",
+          "datum_publicatie": "2026-03-13",
+          "img_url": "https://www.nplw.nl/uploads/Warmtepomp/_840x470_crop_center-center_80_none/52255/installatie-warmtepomp.webp"
+        }
+      ],
+      "woorden": 58,
+      "pijlers": [
+        "research",
+        "technologie-product"
+      ],
+      "truth_check": {
+        "status": "onbekend",
+        "alle_beweringen_herleidbaar": true,
+        "geen_extrapolatie": true,
+        "bronvermelding_compleet": false,
+        "zekerheid_proportioneel": true,
+        "geen_bevestigingsreflex": true,
+        "opmerkingen": "Bron vermelding ontbreekt"
+      }
+    }
+  ],
+  "agenda": [],
+  "spotlight": null,
+  "statistieken": {
+    "aantal_artikelen": 16,
+    "aantal_bronnen": 16,
+    "aantal_categorieen": 5,
+    "categorieen_overgeslagen": []
+  },
+  "status": "gepubliceerd",
+  "review": {
+    "status": "gepubliceerd",
+    "klaar_voor_publicatie": false,
+    "reviewer": "Codex",
+    "reviewed_at": "2026-04-05T07:41:26.375214+00:00",
+    "published_at": "2026-04-05T07:41:26.375214+00:00",
+    "opmerking": "Curated seed-run voor herstel van 16 echte bronartikelen.",
+    "blokkerende_issues": [
+      "Niet alle artikelen hebben een geverifieerde truth-check.",
+      "14 artikelen hebben blokkerende reviewissues."
+    ],
+    "waarschuwingen": [
+      "Status handmatig geforceerd ondanks blokkerende reviewissues."
+    ],
+    "samenvatting": {
+      "artikelen_totaal": 16,
+      "artikelen_geverifieerd": 15,
+      "artikelen_met_blokkers": 14,
+      "aantal_bronnen": 16,
+      "aantal_categorieen": 5
+    },
+    "artikelen": [
+      {
+        "id": "2026-W14-01",
+        "titel": "NPLW: Webinar over uitvoeringsparagraaf warmteprogramma",
+        "categorie": "Onderzoek & wetenschap",
+        "truth_status": "geverifieerd",
+        "woorden": 58,
+        "bron_woorden": 139,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Bronherleidbaar en gecontroleerd"
+        ]
+      },
+      {
+        "id": "2026-W14-02",
+        "titel": "Webinar over grootschalige warmteopslag voor warmtenetten",
+        "categorie": "Onderzoek & wetenschap",
+        "truth_status": "geverifieerd",
+        "woorden": 124,
+        "bron_woorden": 239,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Artikel klopt volledig met bron"
+        ]
+      },
+      {
+        "id": "2026-W14-03",
+        "titel": "Nieuwe quickscan ZLT-netten toont duurzame warmte- en koudenetten aan",
+        "categorie": "Technologie & innovatie",
+        "truth_status": "geverifieerd",
+        "woorden": 125,
+        "bron_woorden": 325,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Artikel klopt met bron over ZLT-netten en quickscan."
+        ]
+      },
+      {
+        "id": "2026-W14-04",
+        "titel": "ZLT-quickscan helpt bij warmteprojecten",
+        "categorie": "Technologie & innovatie",
+        "truth_status": "geverifieerd",
+        "woorden": 86,
+        "bron_woorden": 207,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Alle checks voldaan."
+        ]
+      },
+      {
+        "id": "2026-W14-05",
+        "titel": "Kennismiddag aardwarmte: ontwikkelingen en praktijkervaringen",
+        "categorie": "Projecten & praktijk",
+        "truth_status": "geverifieerd",
+        "woorden": 104,
+        "bron_woorden": 126,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Inhoud volgt nauw op bronmateriaal."
+        ]
+      },
+      {
+        "id": "2026-W14-06",
+        "titel": "Transitievisie warmte en warmteprogramma: een duidelijke weg",
+        "categorie": "Beleid & regelgeving",
+        "truth_status": "geverifieerd",
+        "woorden": 81,
+        "bron_woorden": 138,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Inhoud volgt nauwkeurig bron."
+        ]
+      },
+      {
+        "id": "2026-W14-07",
+        "titel": "Webinar: Wet collectieve warmte en all-electric oplossingen",
+        "categorie": "Beleid & regelgeving",
+        "truth_status": "geverifieerd",
+        "woorden": 82,
+        "bron_woorden": 183,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Alle checks voldaan."
+        ]
+      },
+      {
+        "id": "2026-W14-08",
+        "titel": "Horeca en bakkers meenemen in de warmtetransitie",
+        "categorie": "Netbeheer & congestie",
+        "truth_status": "geverifieerd",
+        "woorden": 35,
+        "bron_woorden": 456,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Alle checks voldaan."
+        ]
+      },
+      {
+        "id": "2026-W14-09",
+        "titel": "Template businesscase warmtenetten bijgewerkt",
+        "categorie": "Beleid & regelgeving",
+        "truth_status": "geverifieerd",
+        "woorden": 84,
+        "bron_woorden": 104,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Alle punten overeenkomstig bron."
+        ]
+      },
+      {
+        "id": "2026-W14-10",
+        "titel": "151 warmtenetten in ontwikkeling in Nederland",
+        "categorie": "Technologie & innovatie",
+        "truth_status": "geverifieerd",
+        "woorden": 97,
+        "bron_woorden": 484,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Inhoud volgt nauw op bron."
+        ]
+      },
+      {
+        "id": "2026-W14-11",
+        "titel": "Warmtenetten in ontwikkeling: een nieuw overzicht",
+        "categorie": "Beleid & regelgeving",
+        "truth_status": "geverifieerd",
+        "woorden": 75,
+        "bron_woorden": 231,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Alle informatie klopt met bron."
+        ]
+      },
+      {
+        "id": "2026-W14-12",
+        "titel": "Modelrapportage plan-MER beschikbaar",
+        "categorie": "Onderzoek & wetenschap",
+        "truth_status": "geverifieerd",
+        "woorden": 77,
+        "bron_woorden": 111,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Alle informatie klopt met bron."
+        ]
+      },
+      {
+        "id": "2026-W14-13",
+        "titel": "Warmtepompeigenaren met dynamisch energiecontract sturen slimmer",
+        "categorie": "Netbeheer & congestie",
+        "truth_status": "geverifieerd",
+        "woorden": 109,
+        "bron_woorden": 378,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Checken volgens bron over slimme sturing en warmtepompen."
+        ]
+      },
+      {
+        "id": "2026-W14-14",
+        "titel": "Dataportaal Warmtetransitie: betere samenwerking via uniforme informatie",
+        "categorie": "Beleid & regelgeving",
+        "truth_status": "geverifieerd",
+        "woorden": 75,
+        "bron_woorden": 580,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Artikel klopt volledig met bron."
+        ]
+      },
+      {
+        "id": "2026-W14-15",
+        "titel": "Meer tijd voor subsidieaanvraag warmtenetten",
+        "categorie": "Beleid & regelgeving",
+        "truth_status": "geverifieerd",
+        "woorden": 112,
+        "bron_woorden": 364,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Artikel klopt met bron"
+        ]
+      },
+      {
+        "id": "2026-W14-16",
+        "titel": "Slimme mix van isoleren en warmtepompen versnelt warmtetransitie",
+        "categorie": "Onderzoek & wetenschap",
+        "truth_status": "onbekend",
+        "woorden": 58,
+        "bron_woorden": 309,
+        "aantal_bronnen": 1,
+        "blokkerende_issues": [
+          "Truth check is 'onbekend', niet 'geverifieerd'.",
+          "Artikelbody valt buiten de toegestane woordbandbreedte."
+        ],
+        "waarschuwingen": [
+          "Artikel valt buiten de redactionele streefbandbreedte (150-300 woorden).",
+          "Truth check: Bron vermelding ontbreekt"
+        ]
+      }
+    ]
+  }
+}
