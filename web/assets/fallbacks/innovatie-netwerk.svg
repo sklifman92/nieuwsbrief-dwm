@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Illustratie van innovatie en slim energienetwerk">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10263a"/>
+      <stop offset="58%" stop-color="#204f6c"/>
+      <stop offset="100%" stop-color="#5a8db7"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d3244"/>
+      <stop offset="100%" stop-color="#0f1b28"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <circle cx="954" cy="124" r="104" fill="#ffd29c" opacity=".8"/>
+  <circle cx="954" cy="124" r="150" fill="#ffd29c" opacity=".13"/>
+  <path d="M0 530c131-47 248-57 380-32 126 24 236 71 386 71 141 0 257-38 434-58v209H0z" fill="#0d2030"/>
+
+  <g stroke="#8bd7e3" stroke-width="5" stroke-linecap="round" opacity=".74" fill="none">
+    <path d="M142 170c61 36 133 46 215 31 97-18 172-74 263-84 104-12 178 33 257 89 72 51 148 82 257 81"/>
+    <path d="M155 228c52 24 108 28 171 14 83-18 149-60 245-66 98-6 170 34 247 81 79 48 162 73 257 72"/>
+    <path d="M208 134c53 0 90 36 90 90 0 48-30 81-90 99"/>
+    <path d="M1020 145c-56 5-89 38-89 89 0 50 33 83 89 101"/>
+  </g>
+
+  <g fill="#d7ebf2">
+    <circle cx="183" cy="182" r="14"/>
+    <circle cx="390" cy="162" r="16"/>
+    <circle cx="615" cy="142" r="16"/>
+    <circle cx="812" cy="216" r="15"/>
+    <circle cx="1038" cy="221" r="14"/>
+  </g>
+
+  <g transform="translate(168 376)">
+    <rect x="0" y="0" width="324" height="178" rx="30" fill="url(#panel)" opacity=".95"/>
+    <rect x="28" y="28" width="268" height="122" rx="20" fill="#23455d"/>
+    <path d="M52 106c39-38 78-55 117-50 43 6 74 38 108 38 34 0 64-19 90-57" fill="none" stroke="#89d7e3" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="116" cy="74" r="14" fill="#8de0d0"/>
+    <circle cx="214" cy="112" r="14" fill="#f4b778"/>
+    <circle cx="290" cy="64" r="14" fill="#8de0d0"/>
+  </g>
+
+  <g transform="translate(633 390)">
+    <rect x="0" y="0" width="210" height="150" rx="26" fill="#133244"/>
+    <rect x="24" y="22" width="162" height="106" rx="18" fill="#2a566e"/>
+    <circle cx="87" cy="75" r="34" fill="none" stroke="#d7ecf2" stroke-width="7"/>
+    <path d="M87 41c11 11 17 22 17 34 0 13-6 24-17 34M87 41c-11 11-17 22-17 34 0 13 6 24 17 34" fill="none" stroke="#d7ecf2" stroke-width="5" stroke-linecap="round"/>
+    <path d="M205 44c26 12 47 28 62 49M205 104c35 4 62 16 83 35M205 76c32-2 61 4 87 18" fill="none" stroke="#8de0d0" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#dce8ee" opacity=".86">
+    <rect x="928" y="472" width="29" height="108" rx="9"/>
+    <rect x="973" y="445" width="43" height="135" rx="10"/>
+    <rect x="1037" y="502" width="32" height="78" rx="9"/>
+    <rect x="1087" y="466" width="50" height="114" rx="12"/>
+  </g>
+</svg>

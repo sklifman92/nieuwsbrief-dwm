@@ -1,10 +1,12 @@
 const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
 
 export default async function handler(req, res) {
-  res.setHeader('Access-Control-Allow-Origin', '*');
-
-  if (req.method === 'OPTIONS') return res.status(204).end();
   if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' });
+
+  if (!process.env.SUPABASE_URL || !process.env.SUPABASE_ANON_KEY) {
+    console.error('Ontbrekende omgevingsvariabelen: SUPABASE_URL of SUPABASE_ANON_KEY');
+    return res.status(500).json({ error: 'Serverconfiguratie onvolledig' });
+  }
 
   const { device_id, tekst } = req.body ?? {};
 

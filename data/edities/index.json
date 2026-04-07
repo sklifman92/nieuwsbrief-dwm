@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-04-05T07:41:26.489709+00:00",
+  "generated_at": "2026-04-05T17:42:05.661909+00:00",
   "latest": "2026-W14",
   "edities": [
     {
       "id": "2026-W14",
       "jaar": 2026,
-      "weeknummer": 14,
+      "weeknummer": 15,
       "datum_publicatie": "2026-04-05",
       "status": "gepubliceerd",
-      "aantal_artikelen": 16,
+      "aantal_artikelen": 17,
       "path": "data/edities/2026-W14/editie.json",
       "review_status": "gepubliceerd",
       "klaar_voor_publicatie": false,
       "artikelen_met_blokkers": 14,
-      "reviewed_at": "2026-04-05T07:41:26.375214+00:00"
+      "reviewed_at": "2026-04-05T17:42:05.661909+00:00"
     }
   ]
 }

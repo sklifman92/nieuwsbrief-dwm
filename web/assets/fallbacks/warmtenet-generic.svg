@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Illustratie van warmtenet en wijkenergie">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#15354d"/>
+      <stop offset="55%" stop-color="#29657b"/>
+      <stop offset="100%" stop-color="#d07b50"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3f5c47"/>
+      <stop offset="100%" stop-color="#162f24"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <circle cx="976" cy="120" r="110" fill="#ffd5a5" opacity=".84"/>
+  <circle cx="976" cy="120" r="156" fill="#ffd5a5" opacity=".16"/>
+  <path d="M0 522c140-44 268-58 412-35 133 22 210 67 354 67 154 0 257-39 434-55v221H0z" fill="url(#ground)"/>
+
+  <g transform="translate(112 362)">
+    <rect x="0" y="0" width="196" height="166" rx="28" fill="#143247" opacity=".96"/>
+    <rect x="24" y="28" width="148" height="48" rx="14" fill="#2e9b8c"/>
+    <rect x="24" y="92" width="118" height="18" rx="9" fill="#9de0c5"/>
+    <rect x="24" y="122" width="82" height="18" rx="9" fill="#9de0c5"/>
+    <path d="M197 49h118" stroke="#cce7ef" stroke-width="9" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#eef2eb">
+    <path d="M412 458h118v94H412z"/>
+    <path d="M398 468 471 411l73 57v12H398z" fill="#d96d61"/>
+    <path d="M570 438h135v114H570z"/>
+    <path d="M554 450 637 383l84 67v14H554z" fill="#d96d61"/>
+    <path d="M747 452h128v100H747z"/>
+    <path d="M733 462 811 404l79 58v12H733z" fill="#d96d61"/>
+  </g>
+
+  <g fill="#98c3da">
+    <rect x="437" y="485" width="24" height="24" rx="5"/>
+    <rect x="479" y="485" width="24" height="24" rx="5"/>
+    <rect x="603" y="471" width="26" height="26" rx="5"/>
+    <rect x="646" y="471" width="26" height="26" rx="5"/>
+    <rect x="779" y="484" width="24" height="24" rx="5"/>
+    <rect x="820" y="484" width="24" height="24" rx="5"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-width="14">
+    <path d="M210 446h135v72h71" stroke="#ef8d57"/>
+    <path d="M478 518h134" stroke="#ef8d57"/>
+    <path d="M674 518h138" stroke="#ef8d57"/>
+    <path d="M873 518h92" stroke="#ef8d57"/>
+    <path d="M344 518h52" stroke="#63c4d3"/>
+    <path d="M612 492h62" stroke="#63c4d3"/>
+    <path d="M812 492h62" stroke="#63c4d3"/>
+  </g>
+
+  <g fill="#dfe9ee" opacity=".86">
+    <rect x="1007" y="502" width="34" height="86" rx="10"/>
+    <rect x="1058" y="462" width="47" height="126" rx="12"/>
+  </g>
+</svg>

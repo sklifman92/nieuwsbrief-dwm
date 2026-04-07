@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Illustratie van wateronderzoek en leidingen">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#102d41"/>
+      <stop offset="55%" stop-color="#28617d"/>
+      <stop offset="100%" stop-color="#7cc5cf"/>
+    </linearGradient>
+    <linearGradient id="drop" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d7f7ff"/>
+      <stop offset="100%" stop-color="#5cbad1"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#bce7f0" stop-opacity=".18"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <circle cx="980" cy="128" r="120" fill="#ffd4a5" opacity=".78"/>
+  <circle cx="980" cy="128" r="164" fill="#ffd4a5" opacity=".14"/>
+  <path d="M0 555c119-46 256-56 390-27 133 28 225 64 362 64 150 0 259-42 448-59v187H0z" fill="#0f2331"/>
+
+  <g opacity=".22" fill="#effcff">
+    <circle cx="103" cy="122" r="11"/>
+    <circle cx="151" cy="159" r="7"/>
+    <circle cx="198" cy="120" r="5"/>
+    <circle cx="1104" cy="218" r="8"/>
+    <circle cx="1047" cy="248" r="5"/>
+  </g>
+
+  <g transform="translate(120 180)">
+    <path d="M248 0c-32 61-110 125-110 191 0 72 49 125 110 125s110-53 110-125C358 125 280 61 248 0z" fill="url(#drop)"/>
+    <path d="M248 46c-16 31-60 71-60 118 0 42 28 73 60 73" fill="none" stroke="#effcff" stroke-width="14" stroke-linecap="round" opacity=".6"/>
+  </g>
+
+  <g transform="translate(558 156)">
+    <path d="M0 0h188v48H138v42h132v48H138v38h168v48H138v196H88V224H0v-48h88v-38H0V90h88V48H0z" fill="#d8f1f7" opacity=".95"/>
+    <circle cx="138" cy="114" r="19" fill="#5bb7cc"/>
+    <circle cx="88" cy="200" r="19" fill="#5bb7cc"/>
+    <circle cx="138" cy="286" r="19" fill="#5bb7cc"/>
+    <circle cx="88" cy="90" r="19" fill="#8ee0d6"/>
+  </g>
+
+  <g transform="translate(864 246)">
+    <path d="M0 0h132v40H98l24 204c3 25-16 46-41 46H51c-25 0-44-21-41-46L34 40H0z" fill="url(#glass)" stroke="#d8f1f7" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M38 154c26-18 54-18 84 0v66c-21 18-49 28-84 28s-63-10-84-28v-66c30-18 58-18 84 0z" fill="#6bc4d6" opacity=".85"/>
+    <circle cx="76" cy="131" r="11" fill="#effcff" opacity=".72"/>
+    <circle cx="113" cy="176" r="8" fill="#effcff" opacity=".52"/>
+  </g>
+
+  <g transform="translate(105 464)">
+    <rect x="0" y="46" width="196" height="80" rx="16" fill="#173449"/>
+    <rect x="24" y="24" width="148" height="42" rx="12" fill="#325f7a"/>
+    <path d="M172 44h48" stroke="#cdebf4" stroke-width="8" stroke-linecap="round"/>
+    <rect x="46" y="65" width="24" height="60" rx="8" fill="#8adfd2"/>
+    <rect x="88" y="65" width="24" height="60" rx="8" fill="#8adfd2"/>
+  </g>
+
+  <g opacity=".86" fill="#d7eef5">
+    <rect x="930" y="495" width="30" height="84" rx="8"/>
+    <rect x="975" y="468" width="38" height="111" rx="8"/>
+    <rect x="1025" y="512" width="28" height="67" rx="8"/>
+    <rect x="1072" y="448" width="42" height="131" rx="8"/>
+  </g>
+</svg>

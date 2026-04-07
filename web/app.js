@@ -143,16 +143,29 @@
       ZLT: 'ZLT', subsidies: 'Subsidies', 'beleid-NL': 'Beleid NL',
       'beleid-HT-MT': 'Beleid HT/MT', netcongestie: 'Netcongestie',
       'technologie-product': 'Technologie', 'technologie-systeem': 'Systemen',
+      'sociaal-domein': 'Sociaal domein',
     };
     return map[p] || p;
   }
 
   function imgOrPlaceholder(url, cls, alt) {
     if (url) {
-      return `<img src="${url}" alt="${alt || ''}" loading="lazy"
-        onerror="this.parentElement.innerHTML='<div class=\\'${cls}-placeholder\\'>♨</div>'" />`;
+      return `<img src="${url}" alt="${alt || ''}" loading="lazy" data-fallback-cls="${cls}" />`;
     }
     return `<div class="${cls}-placeholder">♨</div>`;
+  }
+
+  // Voeg onerror-listeners toe aan img-elementen na innerHTML-insertie
+  // (inline onerror handlers worden geblokkeerd door de CSP)
+  function applyImgFallbacks(container) {
+    container.querySelectorAll('img[data-fallback-cls]').forEach(img => {
+      img.addEventListener('error', () => {
+        const cls = img.dataset.fallbackCls;
+        if (img.parentElement) {
+          img.parentElement.innerHTML = `<div class="${cls}-placeholder">♨</div>`;
+        }
+      }, { once: true });
+    });
   }
 
   // ── Modal ──────────────────────────────────────────────────────────────────
@@ -250,6 +263,7 @@
             <span class="read-more">Lees meer</span>
           </div>
         </div>`;
+      applyImgFallbacks(heroSection);
       heroSection.querySelector('.hero-card').addEventListener('click', () => openModal(hero));
     }
 
@@ -260,8 +274,18 @@
       categories[a.categorie].push(a);
     });
 
+    const categoryPriority = new Map([
+      ['Sociaal domein & bewoners', 0],
+    ]);
+
     const catSection = document.getElementById('categories-section');
-    Object.entries(categories).forEach(([cat, arts]) => {
+    Object.entries(categories)
+      .sort(([a], [b]) => {
+        const aIndex = categoryPriority.get(a) ?? Number.MAX_SAFE_INTEGER;
+        const bIndex = categoryPriority.get(b) ?? Number.MAX_SAFE_INTEGER;
+        return aIndex - bIndex;
+      })
+      .forEach(([cat, arts]) => {
       const block = document.createElement('div');
       block.className = 'category-block';
       block.innerHTML = `<h3>${cat}</h3><div class="articles-grid"></div>`;
@@ -284,6 +308,7 @@
             <span class="card-bron">${bron.naam || ''}</span>
             <span class="card-datum">${formatDate(bron.datum_publicatie)}</span>
           </div>`;
+        applyImgFallbacks(card);
         card.addEventListener('click', () => openModal(a));
         grid.appendChild(card);
       });

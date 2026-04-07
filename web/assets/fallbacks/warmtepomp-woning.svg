@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Illustratie van woning met warmtepomp">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#17435a"/>
+      <stop offset="55%" stop-color="#2a6b7c"/>
+      <stop offset="100%" stop-color="#7abf79"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2f5d52"/>
+      <stop offset="100%" stop-color="#163428"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <circle cx="970" cy="118" r="114" fill="#ffd49b" opacity=".84"/>
+  <circle cx="970" cy="118" r="160" fill="#ffd49b" opacity=".15"/>
+  <path d="M0 530c116-42 254-53 403-27 129 23 217 62 363 62 149 0 263-39 434-59v214H0z" fill="url(#ground)"/>
+
+  <g transform="translate(188 274)">
+    <rect x="68" y="104" width="316" height="226" rx="24" fill="#eef2eb"/>
+    <path d="M16 124 224 0l212 124v22H16z" fill="#d96a60"/>
+    <rect x="121" y="164" width="70" height="70" rx="10" fill="#98c3da"/>
+    <rect x="251" y="164" width="70" height="70" rx="10" fill="#98c3da"/>
+    <rect x="208" y="234" width="55" height="96" rx="10" fill="#c7d8d2"/>
+    <rect x="288" y="46" width="28" height="78" rx="10" fill="#cfdde3"/>
+    <path d="M116 112V62h90l54 50" fill="none" stroke="#f6d0cb" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(682 398)">
+    <rect x="0" y="0" width="176" height="160" rx="28" fill="#173448"/>
+    <rect x="20" y="20" width="136" height="120" rx="18" fill="#284e65"/>
+    <circle cx="78" cy="80" r="34" fill="none" stroke="#d7eef5" stroke-width="7"/>
+    <path d="M78 46c12 11 18 22 18 34s-6 23-18 34M78 46c-12 11-18 22-18 34s6 23 18 34" stroke="#d7eef5" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <rect x="126" y="48" width="10" height="64" rx="5" fill="#81dac5"/>
+    <rect x="118" y="75" width="26" height="10" rx="5" fill="#81dac5"/>
+  </g>
+
+  <g fill="none" stroke="#d9f5ef" stroke-width="8" stroke-linecap="round" opacity=".85">
+    <path d="M901 421c38-12 71-9 104 10"/>
+    <path d="M923 389c44-10 82-3 118 20"/>
+    <path d="M935 465c36 2 65 14 89 35"/>
+  </g>
+
+  <g fill="#9de0c5" opacity=".95">
+    <path d="M978 346c17-30 41-43 73-39-18 29-42 42-73 39z"/>
+    <path d="M1046 374c24-20 51-25 81-15-24 21-51 26-81 15z"/>
+    <path d="M981 522c24 6 42 20 52 44-24-6-42-20-52-44z"/>
+  </g>
+
+  <g fill="#dfe9ee" opacity=".85">
+    <rect x="72" y="504" width="39" height="92" rx="10"/>
+    <rect x="126" y="474" width="54" height="122" rx="12"/>
+    <rect x="194" y="524" width="31" height="72" rx="10"/>
+    <rect x="1081" y="495" width="34" height="101" rx="10"/>
+  </g>
+</svg>
