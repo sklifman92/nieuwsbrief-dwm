@@ -73,6 +73,26 @@ Sector- en onderzoeksrapporten (TKI Urban Energy, WeLabs, CE Delft, TNO, PBL, RL
 
 Beide typen worden opgenomen in `bronindex.json` met `type: "kamerbrief"` of `type: "rapport"` en een `referentie`-veld. URL mag leeg zijn bij handmatig aangeleverde documenten.
 
+## Projecten in uitvoering — LT en ZLT collectieve systemen
+
+Wekelijks wordt bijgehouden welke LT (lage temperatuur) en ZLT (zeer lage temperatuur) collectieve warmte- en koudeprojecten in Nederland in uitvoering zijn of de aankondigingsfase verlaten. Dit geeft inzicht in wat partijen in de markt concreet doen en waar de sector naartoe beweegt.
+
+Het gaat bewust om concurrentie- en marktintelligentie: wie bouwt wat, waar, voor wie, met welke technologie en op welke schaal. Niet om beleidsdocumenten, maar om projecten die daadwerkelijk van de grond komen of net zijn opgeleverd.
+
+Relevante signalen zijn onder meer: aankondigingen van nieuwe warmtenetten of koudenetpilots, gunningen en contracten, buurtaansluitingen, openingen en mijlpalen, financieringsbesluiten, en evaluaties van lopende projecten.
+
+Bronnen die structureel worden gescand voor dit onderdeel:
+
+`NPLW projectenoverzicht` — overzicht van warmtenetten in ontwikkeling per gemeente en regio.
+`RVO warmtenet monitor` — data over gerealiseerde en in ontwikkeling zijnde warmtenetten.
+`Warmtebedrijven zelf` (Vattenfall Warmte, Eneco Warmte, HVC, Alliander Duurzame Energie, Eteck, Enefit, Ecovat, IF Technology): nieuws, projectpagina's en persberichten.
+`Gemeentelijke projectpagina's` en aanbestedingspublicaties (TenderNed): aankondigingen van concessies, bouwvergunningen en wijkgerichte verduurzamingsprojecten.
+`Energeia` — vakmedia die projectgunningen en marktbewegingen bijhoudt.
+
+Pijler: gebruik `ZLT` voor zeer lage temperatuursystemen (aquathermie, bodemenergie, seizoensopslag, koude-warmte-uitwisseling) en `beleid-HT-MT` voor hoge- en middeltemperatuurprojecten. Gebruik `projecten` als overkoepelende pijler voor alle lopende en aangekondigde projecten.
+
+Frequentie: neem minimaal één project-update per editie op als er iets noemenswaardigs is. Als er geen concrete projectontwikkeling is, sla dan over maar benoem dat expliciet in de verwerking.
+
 ## Classificatieregel
 
 Gebruik `Sociaal domein & bewoners` zodra minstens een van deze vragen centraal staat:
