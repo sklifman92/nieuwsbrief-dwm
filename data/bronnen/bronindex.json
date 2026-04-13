@@ -378,7 +378,7 @@
     }
   },
   "generated_at": "2026-04-13T08:00:00.000000+00:00",
-  "totaal": 23,
+  "totaal": 25,
   "nieuwe_bronnen_2026-W15": [
     {
       "url": "https://www.nplw.nl/nieuws/handreiking-uitvoeringsparagraaf-beschikbaar",
@@ -456,6 +456,36 @@
       "datum_publicatie": "2026-03-30",
       "img_url": "",
       "pijlers": ["projecten", "beleid-NL"],
+      "edities": ["2026-W15"]
+    },
+    {
+      "url": "",
+      "naam": "Ministerie van Klimaat en Groene Groei",
+      "categorie": "Netbeheer & congestie",
+      "artikel_titel": "Kamerbrief aanpak netcongestie — LAN drie sporen",
+      "editie_id": "2026-W15",
+      "weeknummer": 16,
+      "jaar": 2026,
+      "datum_publicatie": "2025-10-06",
+      "img_url": "",
+      "type": "kamerbrief",
+      "referentie": "KGG/101340766",
+      "pijlers": ["netcongestie", "beleid-NL"],
+      "edities": ["2026-W15"]
+    },
+    {
+      "url": "",
+      "naam": "WeLabs / TKI Urban Energy",
+      "categorie": "Technologie & innovatie",
+      "artikel_titel": "Nationaal EMS Programma — standaarden voor energiebeheersystemen",
+      "editie_id": "2026-W15",
+      "weeknummer": 16,
+      "jaar": 2026,
+      "datum_publicatie": "2026-03-01",
+      "img_url": "",
+      "type": "rapport",
+      "referentie": "Nationaal EMS Programma, WeLabs / TKI Urban Energy, maart 2026",
+      "pijlers": ["netcongestie", "smart-grid", "technologie-systeem"],
       "edities": ["2026-W15"]
     }
   ]

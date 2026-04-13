@@ -11,7 +11,9 @@
     "Het Energiehuis wordt ingericht als centraal steunpunt voor gebouweigenaren en bewoners bij verduurzaming.",
     "NPLW-directeur pleit voor eenvoudiger taalgebruik in de warmtetransitie: van jargon naar begrijpelijke verhalen.",
     "Huurders praten vaker mee bij woningcorporaties, maar missen echte invloed op beslissingen.",
-    "Platform31 publiceert praktijklessen over het delen van personeel tussen regio's in de warmtetransitie."
+    "Platform31 publiceert praktijklessen over het delen van personeel tussen regio's in de warmtetransitie.",
+    "Kabinet werkt langs drie sporen aan aanpak netcongestie; wachtrij voor aansluitingen telt nog circa 14.000 verzoeken.",
+    "WeLabs en TKI Urban Energy pleiten voor nationaal EMS-programma om versnippering van energiebeheersystemen aan te pakken."
   ],
   "artikelen": [
     {
@@ -20,8 +22,8 @@
       "is_redactioneel": true,
       "titel": "Van de redactie — Uitvoering vraagt meer dan plannen",
       "lead": "De warmtetransitie staat op een kantelpunt. Jaren van plannen maken en beleid schrijven gaan over in de fase van daadwerkelijke uitvoering. En juist daar wringt het.",
-      "body": "De Energiebalans bestaat omdat dat gesprek een plek verdient. Scherp, wekelijks, voor iedereen die professioneel aan de knoppen zit.\n\nDeze week valt op hoeveel nieuws er gaat over het verschil tussen intentie en praktijk. NPLW brengt een handreiking uit voor de uitvoeringsparagraaf van het warmteprogramma, want er zijn genoeg gemeenten die weten wat ze willen maar niet hoe ze het moeten organiseren. Tegelijkertijd waarschuwt NPLW-directeur Gijs Zeestraten dat de sector nog altijd praat in een taal die de meeste Nederlanders niet begrijpen. Van Wcw tot warmtekavels tot eindgebruikerskosten: voor ingewijden vanzelfsprekend, voor de bewoner die straks zijn aansluiting kiest volstrekt onbegrijpelijk.\n\nDat is geen detail. De uitvoeringsfase vraagt juist draagvlak van mensen buiten de beleidskamer. Huurders die bij woningcorporaties worden betrokken maar te laat aan tafel komen om nog echt iets te kunnen veranderen. Bewoners die een Energiehuis willen bezoeken maar eerst moeten weten dat het bestaat en wat het doet.\n\nOndertussen worstelen regio's met iets heel praktisch: ze hebben simpelweg te weinig mensen om de transitie uit te voeren. Platform31 laat zien hoe regio's personeel beginnen te delen, met alle voordelen en haken en ogen die daarbij horen. Dat is het echte werk van de komende jaren: niet meer plannen schrijven, maar organiseren, communiceren en uitvoeren.\n\nGroeten, Steffen Klifman",
-      "woorden": 215,
+      "body": "De warmtetransitie staat op een kantelpunt. Niet alleen van plannen naar uitvoering, maar ook van warmtevraagstuk naar energiesysteemvraagstuk. Die bredere samenhang dringt zich steeds nadrukkelijker op.\n\nTwee bronnen die deze editie buiten de reguliere nieuwsstroom binnenkwamen, zetten die context scherp neer. Een Kamerbrief van minister Hermans beschrijft hoe het kabinet netcongestie aanpakt langs drie lijnen: sneller bouwen aan het net, slimmer benutten van wat er al ligt, en betere prognoses. Het illustreert hoezeer warmte en elektriciteit inmiddels verstrengeld zijn. Maar ook: dat de wachtrij voor netaansluitingen nog altijd circa 14.000 verzoeken telt. Een rapport van WeLabs en TKI Urban Energy gaat over iets dat minder in de publiciteit staat maar net zo bepalend is: de versnippering van Energy Management Systemen. Die EMS-systemen vormen straks de digitale ruggengraat van een flexibel energiesysteem, maar ze praten niet met elkaar. De Energiewet van 2026 veronderstelt al dat ze samenwerken. De markt is er nog niet klaar voor.\n\nDie twee structurele problemen komen samen met wat het overige nieuws deze week laat zien. NPLW brengt een handreiking uit voor de uitvoeringsparagraaf, omdat gemeenten weten wat ze willen maar niet hoe ze het moeten organiseren. Gijs Zeestraten pleit voor begrijpelijker taal, want draagvlak op wijkniveau is geen luxe meer. Huurders praten formeel mee bij corporaties, maar te laat om echt iets te veranderen. Regio's worstelen met personeelstekort.\n\nDe transitie stokt niet aan ambitie. Ze stokt aan uitvoerbaarheid, infrastructuur en vertrouwen.\n\nGroeten, Steffen Klifman",
+      "woorden": 235,
       "bronnen": []
     },
     {
@@ -138,12 +140,50 @@
       ],
       "pijlers": ["projecten", "beleid-NL"],
       "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W15-07",
+      "categorie": "Netbeheer & congestie",
+      "titel": "Kabinet zet in op drie sporen voor aanpak netcongestie",
+      "lead": "Minister Hermans informeerde de Tweede Kamer over de voortgang van het Landelijk Actieplan Netcongestie: netuitbreiding versnellen, bestaand net beter benutten en de informatiepositie verbeteren.",
+      "body": "Het Landelijk Actieplan Netcongestie (LAN) werkt langs drie lijnen. De eerste is Sneller Bouwen: uitbreiding van het hoogspanningsnet, aanleg van 50.000 extra transformatorhuisjes en een versnellingspakket dat de doorlooptijden van netprojecten moet terugdringen. De tweede lijn is Beter Benutten: flexcontracten voor grootverbruikers worden verder uitgerold, en via het mechanisme TDTR (Transport Dimmen Tijdelijk Rijksbelang) heeft TenneT bij Stedin 61 aansluitplekken vrijgemaakt. Voor kleinverbruikers wordt het tijdsafhankelijke tarief vereenvoudigd tot vier prijsniveaus, met invoering gepland voor 2028. De derde lijn is Slimmer Inzicht: betere prognosemethoden en gestandaardiseerde monitoringaanpakken op landelijk niveau.\n\nDe brief is een voortgangsrapportage, maar ook een erkenning dat netcongestie geen tijdelijk knelpunt is. De wachtrij voor nieuwe netaansluitingen telde begin 2025 nog altijd circa 14.000 verzoeken. Dat raakt de warmtetransitie direct: warmtenetten, warmtepompen en collectieve verduurzamingsprojecten kunnen pas worden aangesloten als het net dat toelaat.\n\nVoor gemeenten en projectontwikkelaars betekent dit dat netcapaciteit structureel in de planvorming moet worden meegenomen, niet pas bij de aanvraagfase.",
+      "woorden": 170,
+      "bronnen": [
+        {
+          "naam": "Ministerie van Klimaat en Groene Groei",
+          "url": "",
+          "type": "kamerbrief",
+          "datum_publicatie": "2025-10-06",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["netcongestie", "beleid-NL"],
+      "truth_check": { "status": "verified", "opmerkingen": "Kamerbrief KGG/101340766, 6 oktober 2025. Handmatig toegevoegd vanuit lokale PDF." }
+    },
+    {
+      "id": "2026-W15-08",
+      "categorie": "Technologie & innovatie",
+      "titel": "Versnipperd EMS-landschap vraagt nationale standaarden",
+      "lead": "WeLabs en TKI Urban Energy pleiten voor een nationaal programma dat de versnippering van Energy Management Systemen aanpakt — een voorwaarde voor een werkend flexibel energiesysteem.",
+      "body": "De nieuwe Energiewet, in werking per 1 januari 2026, vergroot de verwachte rol van Energy Management Systemen (EMS) fundamenteel. Waar een EMS voorheen vooral op gebouwniveau werkte, veronderstelt de wet dat systemen samenwerken met de bredere netinfrastructuur en actief bijdragen aan netbalans.\n\nDie verwachting botst met de realiteit. WeLabs en TKI Urban Energy inventariseerden de EMS-markt en constateren sterke versnippering: tientallen leveranciers met onvergelijkbare systemen, geen standaard interfaces, en nauwelijks geborgde interoperabiliteit of cyberveiligheid. Dat maakt systeemintegratie kostbaar en onvoorspelbaar.\n\nHet rapport pleit voor een nationaal EMS-programma dat standaardisering, governance en interoperabiliteitsafspraken organiseert. Niet centrale marktaansturing, maar spelregels die samenwerking tussen systemen mogelijk maken. Zonder die structuur dreigen EMS-systemen als eilanden te functioneren: technisch aanwezig maar niet in staat bij te dragen aan systeembalans.\n\nDe relevantie voor de warmtetransitie is direct. Warmtenetten, warmtepompen en slimme laadpunten zijn allemaal afhankelijk van EMS-functionaliteit voor flexibele inzet. Als die systemen niet met elkaar kunnen communiceren, blijft het potentieel van vraagrespons grotendeels onbenut.",
+      "woorden": 165,
+      "bronnen": [
+        {
+          "naam": "WeLabs / TKI Urban Energy",
+          "url": "",
+          "type": "rapport",
+          "datum_publicatie": "2026-03-01",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["netcongestie", "smart-grid", "technologie-systeem"],
+      "truth_check": { "status": "verified", "opmerkingen": "Rapport 'Nationaal EMS Programma', WeLabs/TKI Urban Energy, maart 2026. Handmatig toegevoegd vanuit lokale PDF." }
     }
   ],
   "verwerking": {
     "model": "claude-sonnet-4-6",
-    "bronnen_gescand": ["NPLW", "RVO", "Woonbond", "Platform31"],
+    "bronnen_gescand": ["NPLW", "RVO", "Woonbond", "Platform31", "Ministerie van Klimaat en Groene Groei", "WeLabs / TKI Urban Energy"],
     "sociaal_domein_artikelen": 3,
-    "notities": "RVO-nieuws niet bereikbaar via directe URL, NPLW en Woonbond en Platform31 goed beschikbaar. 3 sociaal-domein artikelen opgenomen (Energiehuis, taalgebruik, huurdersparticipatie)."
+    "notities": "RVO-nieuws niet bereikbaar via directe URL, NPLW en Woonbond en Platform31 goed beschikbaar. 3 sociaal-domein artikelen opgenomen (Energiehuis, taalgebruik, huurdersparticipatie). 2 artikelen handmatig toegevoegd vanuit lokale PDF-bronnen: Kamerbrief netcongestie (KGG/101340766, okt 2025) en Nationaal EMS Programma (WeLabs/TKI, maart 2026)."
   }
 }
