@@ -1,4 +1,141 @@
 {
+  "scan_bronnen": {
+    "richtlijn": "Scan alle bronnen hieronder wekelijks. Max 30% van de artikelen per editie mag van één bron komen. Streef naar minimaal 4 unieke bronnen per editie.",
+    "kern": [
+      {
+        "naam": "NPLW",
+        "url": "https://www.nplw.nl/nieuws",
+        "focus": "Warmteprogramma's, uitvoering gemeenten, transitievisies, projectondersteuning",
+        "type": "kern",
+        "max_aandeel_pct": 30
+      },
+      {
+        "naam": "RVO",
+        "url": "https://www.rvo.nl/nieuws",
+        "focus": "Subsidies, warmtenetten, energietransitie, rapportages",
+        "type": "kern",
+        "max_aandeel_pct": 30
+      },
+      {
+        "naam": "Warmtenetwerk",
+        "url": "https://www.warmtenetwerk.nl/nieuws",
+        "focus": "Projectnieuws warmtenetten, gunningen, openingen, technische updates",
+        "type": "kern"
+      },
+      {
+        "naam": "Energeia",
+        "url": "https://energeia.nl",
+        "focus": "Vakmedia: projectgunningen, marktbewegingen, concessies, warmtebedrijven",
+        "type": "kern"
+      }
+    ],
+    "sociaal": [
+      {
+        "naam": "Aedes",
+        "url": "https://aedes.nl/nieuws",
+        "focus": "Woningcorporaties, huurders, woonlasten, uitvoerbaarheid corporatiepraktijk",
+        "type": "sociaal"
+      },
+      {
+        "naam": "Woonbond",
+        "url": "https://www.woonbond.nl/nieuws",
+        "focus": "Huurdersperspectief, instemming, betaalbaarheid, rechten, draagvlak",
+        "type": "sociaal"
+      },
+      {
+        "naam": "Vereniging Eigen Huis",
+        "url": "https://www.eigenhuis.nl/nieuws",
+        "focus": "Particuliere woningeigenaren, kostenafwegingen, keuzevrijheid, vertrouwen",
+        "type": "sociaal"
+      },
+      {
+        "naam": "Milieu Centraal",
+        "url": "https://www.milieucentraal.nl/nieuws",
+        "focus": "Bewonersuitleg warmtenetten, isolatie, warmtepompen, gedragskant",
+        "type": "sociaal"
+      },
+      {
+        "naam": "Platform31",
+        "url": "https://www.platform31.nl/nieuws",
+        "focus": "Bewonersinitiatieven, participatie, wijkaanpak, energiearmoede, sociaal proces",
+        "type": "sociaal"
+      }
+    ],
+    "onderzoek": [
+      {
+        "naam": "TNO",
+        "url": "https://www.tno.nl/nl/newsroom",
+        "focus": "Woonlasten, sociale huur, adoptiegedrag, gebruikersimpact verduurzaming",
+        "type": "onderzoek"
+      },
+      {
+        "naam": "CE Delft",
+        "url": "https://ce.nl/publicaties",
+        "focus": "Systeemanalyse, kosten-baten, energiebeleid, marktdynamiek",
+        "type": "onderzoek"
+      },
+      {
+        "naam": "PBL",
+        "url": "https://www.pbl.nl/publicaties",
+        "focus": "Klimaatbeleid, woningmarkt, energiescenario's, voortgangsrapportages",
+        "type": "onderzoek"
+      },
+      {
+        "naam": "TKI Urban Energy",
+        "url": "https://www.tki-urbanenergy.nl/nieuws",
+        "focus": "Innovatieprogramma's, EMS, smart energy, demonstratieprojecten",
+        "type": "onderzoek"
+      }
+    ],
+    "projecten": [
+      {
+        "naam": "Vattenfall Warmte",
+        "url": "https://www.vattenfall.nl/over-vattenfall/pers",
+        "focus": "Projectnieuws, gunningen, aansluitingen, warmtenet Amsterdam/Rotterdam",
+        "type": "projecten"
+      },
+      {
+        "naam": "Eneco Warmte",
+        "url": "https://www.eneco.nl/over-eneco/nieuws",
+        "focus": "Warmtenet Den Haag, Leiden, nieuwe projecten",
+        "type": "projecten"
+      },
+      {
+        "naam": "Alliander / Liander",
+        "url": "https://www.alliander.com/nl/nieuws",
+        "focus": "Publieke warmtebedrijven, netuitbreiding, concessies",
+        "type": "projecten"
+      },
+      {
+        "naam": "HVC",
+        "url": "https://www.hvcgroep.nl/nieuws",
+        "focus": "Warmtenetten Noord-Holland, afvalwarmte, projecten Drechtsteden",
+        "type": "projecten"
+      },
+      {
+        "naam": "TenderNed",
+        "url": "https://www.tenderned.nl",
+        "focus": "Aanbestedingen warmtenetten, concessies, bouwvergunningen wijkverduurzaming",
+        "type": "projecten",
+        "zoektermen": ["warmtenet", "warmtelevering", "wijkverduurzaming", "aardgasvrij"]
+      }
+    ],
+    "beleid": [
+      {
+        "naam": "Rijksoverheid Kamerstukken",
+        "url": "https://www.rijksoverheid.nl/documenten/kamerstukken",
+        "focus": "Klimaat, energie, wonen — beleidsvoortgang, actieplannen, Kamerberichten",
+        "type": "kamerbrief",
+        "ministeries": ["Klimaat en Groene Groei", "BZK", "EZK"]
+      },
+      {
+        "naam": "Netbeheer Nederland",
+        "url": "https://www.netbeheernederland.nl/nieuws",
+        "focus": "Netcongestie, verzwaring, transportschaarste, systeemintegratie",
+        "type": "beleid"
+      }
+    ]
+  },
   "bronnen": [
     {
       "url": "https://www.nplw.nl/nieuws/laatste-sessie-ondersteuningsaanbod-warmteprogramma-in-de-regio-wees-erbij",
