@@ -377,6 +377,86 @@
       }
     }
   },
-  "generated_at": "2026-04-05T17:42:05.661909+00:00",
-  "totaal": 17
+  "generated_at": "2026-04-13T08:00:00.000000+00:00",
+  "totaal": 23,
+  "nieuwe_bronnen_2026-W15": [
+    {
+      "url": "https://www.nplw.nl/nieuws/handreiking-uitvoeringsparagraaf-beschikbaar",
+      "naam": "NPLW",
+      "categorie": "Beleid & regelgeving",
+      "artikel_titel": "Nieuwe handreiking helpt gemeenten uitvoeringsparagraaf te schrijven",
+      "editie_id": "2026-W15",
+      "weeknummer": 16,
+      "jaar": 2026,
+      "datum_publicatie": "2026-04-10",
+      "img_url": "https://www.nplw.nl/uploads/Headerbeelden/_187x105_crop_center-center_80_none/1057/Warmteprogramma.webp",
+      "pijlers": ["beleid-NL", "projecten"],
+      "edities": ["2026-W15"]
+    },
+    {
+      "url": "https://www.nplw.nl/nieuws/tariefsverlaging-commissie-mer-bij-gebruik-modelrapportage-mer",
+      "naam": "NPLW",
+      "categorie": "Beleid & regelgeving",
+      "artikel_titel": "Tariefsverlaging Commissie MER bij gebruik modelrapportage",
+      "editie_id": "2026-W15",
+      "weeknummer": 16,
+      "jaar": 2026,
+      "datum_publicatie": "2026-04-07",
+      "img_url": "https://www.nplw.nl/uploads/Headerbeelden/_187x105_crop_center-center_80_none/1057/Warmteprogramma.webp",
+      "pijlers": ["beleid-NL", "subsidies"],
+      "edities": ["2026-W15"]
+    },
+    {
+      "url": "https://www.nplw.nl/nieuws/energiehuis-in-de-maak",
+      "naam": "NPLW",
+      "categorie": "Sociaal domein & bewoners",
+      "artikel_titel": "Het Energiehuis: één loket voor verduurzaming van gebouwen",
+      "editie_id": "2026-W15",
+      "weeknummer": 16,
+      "jaar": 2026,
+      "datum_publicatie": "2026-04-02",
+      "img_url": "https://www.nplw.nl/uploads/Warmtepomp/_840x470_crop_center-center_80_none/52255/installatie-warmtepomp.webp",
+      "pijlers": ["beleid-NL", "sociaal-domein", "projecten"],
+      "edities": ["2026-W15"]
+    },
+    {
+      "url": "https://www.nplw.nl/nieuws/van-abracadabra-naar-aha",
+      "naam": "NPLW",
+      "categorie": "Sociaal domein & bewoners",
+      "artikel_titel": "Van abracadabra naar aha: warmtetransitie vraagt om begrijpelijke taal",
+      "editie_id": "2026-W15",
+      "weeknummer": 16,
+      "jaar": 2026,
+      "datum_publicatie": "2026-04-02",
+      "img_url": "https://www.nplw.nl/uploads/Eenmalig-gebruik/2026/_840x470_crop_center-center_80_none/52412/Microfoon_in_raadszaal_Utrecht.webp",
+      "pijlers": ["sociaal-domein", "beleid-NL"],
+      "edities": ["2026-W15"]
+    },
+    {
+      "url": "https://www.woonbond.nl/nieuws/huurders-praten-vaker-mee-maar-missen-invloed/",
+      "naam": "Woonbond",
+      "categorie": "Sociaal domein & bewoners",
+      "artikel_titel": "Huurders praten vaker mee, maar missen echte invloed bij corporaties",
+      "editie_id": "2026-W15",
+      "weeknummer": 16,
+      "jaar": 2026,
+      "datum_publicatie": "2026-04-09",
+      "img_url": "https://www.woonbond.nl/wp-content/uploads/2023/07/persberichten_default.jpg",
+      "pijlers": ["sociaal-domein", "beleid-NL"],
+      "edities": ["2026-W15"]
+    },
+    {
+      "url": "https://www.platform31.nl/artikelen/arbeidscapaciteit-delen-in-de-energie-en-warmtetransitie-lessen-uit-de-praktijk/",
+      "naam": "Platform31",
+      "categorie": "Projecten & praktijk",
+      "artikel_titel": "Regio's delen personeel voor de warmtetransitie: lessen uit de praktijk",
+      "editie_id": "2026-W15",
+      "weeknummer": 16,
+      "jaar": 2026,
+      "datum_publicatie": "2026-03-30",
+      "img_url": "",
+      "pijlers": ["projecten", "beleid-NL"],
+      "edities": ["2026-W15"]
+    }
+  ]
 }

@@ -1,0 +1,149 @@
+{
+  "editie": "2026-W15",
+  "jaar": 2026,
+  "weeknummer": 16,
+  "datum_start": "2026-04-06",
+  "datum_eind": "2026-04-12",
+  "datum_publicatie": "2026-04-13",
+  "highlights": [
+    "NPLW biedt gemeenten een nieuwe handreiking voor de uitvoeringsparagraaf van het warmteprogramma.",
+    "Gemeenten die de modelrapportage MER gebruiken, krijgen voortaan een lager tarief van de Commissie mer.",
+    "Het Energiehuis wordt ingericht als centraal steunpunt voor gebouweigenaren en bewoners bij verduurzaming.",
+    "NPLW-directeur pleit voor eenvoudiger taalgebruik in de warmtetransitie: van jargon naar begrijpelijke verhalen.",
+    "Huurders praten vaker mee bij woningcorporaties, maar missen echte invloed op beslissingen.",
+    "Platform31 publiceert praktijklessen over het delen van personeel tussen regio's in de warmtetransitie."
+  ],
+  "artikelen": [
+    {
+      "id": "2026-W15-red",
+      "categorie": "Redactioneel",
+      "is_redactioneel": true,
+      "titel": "Van de redactie — Uitvoering vraagt meer dan plannen",
+      "lead": "De warmtetransitie staat op een kantelpunt. Jaren van plannen maken en beleid schrijven gaan over in de fase van daadwerkelijke uitvoering. En juist daar wringt het.",
+      "body": "De Energiebalans bestaat omdat dat gesprek een plek verdient. Scherp, wekelijks, voor iedereen die professioneel aan de knoppen zit.\n\nDeze week valt op hoeveel nieuws er gaat over het verschil tussen intentie en praktijk. NPLW brengt een handreiking uit voor de uitvoeringsparagraaf van het warmteprogramma, want er zijn genoeg gemeenten die weten wat ze willen maar niet hoe ze het moeten organiseren. Tegelijkertijd waarschuwt NPLW-directeur Gijs Zeestraten dat de sector nog altijd praat in een taal die de meeste Nederlanders niet begrijpen. Van Wcw tot warmtekavels tot eindgebruikerskosten: voor ingewijden vanzelfsprekend, voor de bewoner die straks zijn aansluiting kiest volstrekt onbegrijpelijk.\n\nDat is geen detail. De uitvoeringsfase vraagt juist draagvlak van mensen buiten de beleidskamer. Huurders die bij woningcorporaties worden betrokken maar te laat aan tafel komen om nog echt iets te kunnen veranderen. Bewoners die een Energiehuis willen bezoeken maar eerst moeten weten dat het bestaat en wat het doet.\n\nOndertussen worstelen regio's met iets heel praktisch: ze hebben simpelweg te weinig mensen om de transitie uit te voeren. Platform31 laat zien hoe regio's personeel beginnen te delen, met alle voordelen en haken en ogen die daarbij horen. Dat is het echte werk van de komende jaren: niet meer plannen schrijven, maar organiseren, communiceren en uitvoeren.\n\nGroeten, Steffen Klifman",
+      "woorden": 215,
+      "bronnen": []
+    },
+    {
+      "id": "2026-W15-01",
+      "categorie": "Beleid & regelgeving",
+      "is_hero": true,
+      "titel": "Nieuwe handreiking helpt gemeenten uitvoeringsparagraaf te schrijven",
+      "lead": "NPLW publiceert een handreiking die gemeenten concreet helpt bij het opstellen van de uitvoeringsparagraaf van hun warmteprogramma.",
+      "body": "Het warmteprogramma beschrijft de ambitie. De uitvoeringsparagraaf beschrijft hoe een gemeente die ambitie daadwerkelijk gaat waarmaken. Dat tweede deel blijkt in de praktijk het moeilijkste. NPLW biedt nu een handreiking die gemeenten stap voor stap helpt bij drie cruciale keuzes: hoe organiseer je de uitvoering, welke mensen en middelen heb je nodig en welke risico's loop je.\n\nDe handreiking richt zich expliciet op de brug tussen plan en praktijk. Netcongestie, personeelstekort en financiële onzekerheid worden daarin als concrete risicofactoren benoemd, niet als abstracte bedreigingen. De tool is beschikbaar als downloadbare PDF en wordt aangevuld met een bijgewerkt businesscase-template voor warmtenetten.\n\nVoor gemeenten die de stap van planvorming naar uitvoering nog moeten zetten, biedt dit document een praktisch vertrekpunt.",
+      "woorden": 130,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/handreiking-uitvoeringsparagraaf-beschikbaar",
+          "type": "extern",
+          "datum_publicatie": "2026-04-10",
+          "img_url": "https://www.nplw.nl/uploads/Headerbeelden/_187x105_crop_center-center_80_none/1057/Warmteprogramma.webp"
+        }
+      ],
+      "pijlers": ["beleid-NL", "projecten"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W15-02",
+      "categorie": "Beleid & regelgeving",
+      "titel": "Tariefsverlaging Commissie MER bij gebruik modelrapportage",
+      "lead": "Gemeenten die de NPLW-modelrapportage voor milieueffectrapportage gebruiken, betalen voortaan minder voor de toetsing door de Commissie mer.",
+      "body": "Het opstellen van een plan-MER bij het warmteprogramma is voor veel gemeenten een kostenpost die het proces vertraagt. NPLW introduceerde begin 2026 een modelrapportage die het werk standaardiseert. Als stimulans om die modelrapportage ook daadwerkelijk te gebruiken hanteert de Commissie mer nu een lager tarief voor toetsingen die erop gebaseerd zijn.\n\nDe korting is bedoeld als financiële duw in de rug. Gemeenten die toch al van plan waren de modelrapportage te gebruiken, besparen nu ook op de toetsingskosten. Voor kleinere gemeenten met beperkt budget kan dat een wezenlijk verschil maken in de planningsfase.\n\nDe maatregel geldt per direct voor nieuwe toetsingsaanvragen.",
+      "woorden": 105,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/tariefsverlaging-commissie-mer-bij-gebruik-modelrapportage-mer",
+          "type": "extern",
+          "datum_publicatie": "2026-04-07",
+          "img_url": "https://www.nplw.nl/uploads/Headerbeelden/_187x105_crop_center-center_80_none/1057/Warmteprogramma.webp"
+        }
+      ],
+      "pijlers": ["beleid-NL", "subsidies"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W15-03",
+      "categorie": "Sociaal domein & bewoners",
+      "titel": "Het Energiehuis: één loket voor verduurzaming van gebouwen",
+      "lead": "Nederland werkt aan een centraal steunpunt waar gebouweigenaren en bewoners terecht kunnen voor hulp bij verduurzaming van hun woning of gebouw.",
+      "body": "Het Energiehuis bouwt voort op bestaande initiatieven zoals gemeentelijke energieloketten en Verbeterjehuis.nl. Het nieuwe concept combineert digitale ondersteuning met lokale dienstverlening op locatie. De precieze invulling verschilt per regio, afhankelijk van wat er lokaal al bestaat en wat bewoners nodig hebben.\n\nSpeciale aandacht gaat naar kwetsbare groepen. Via EU-financiering kunnen diensten als energiecoaches en energiefixers worden ingezet voor huishoudens met lage inkomens of betaalproblemen. Daarmee voldoet Nederland tegelijk aan de EPBD IV-richtlijn, die lidstaten verplicht een éénloketsysteem in te richten.\n\nMinister Boekholt O'Sullivan heeft aangekondigd voor de zomer meer duidelijkheid te geven over de verdere uitwerking. Voor gemeenten die al een energieloket runnen, is het de vraag hoe dit nieuwe landelijke kader zich verhoudt tot wat er lokaal al bestaat.",
+      "woorden": 135,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/energiehuis-in-de-maak",
+          "type": "extern",
+          "datum_publicatie": "2026-04-02",
+          "img_url": "https://www.nplw.nl/uploads/Warmtepomp/_840x470_crop_center-center_80_none/52255/installatie-warmtepomp.webp"
+        }
+      ],
+      "pijlers": ["beleid-NL", "sociaal-domein", "projecten"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W15-04",
+      "categorie": "Sociaal domein & bewoners",
+      "titel": "Van abracadabra naar aha: warmtetransitie vraagt om begrijpelijke taal",
+      "lead": "NPLW-directeur Gijs Zeestraten pleit voor een fundamentele omslag in de communicatie over de warmtetransitie: van beleidsjargon naar verhalen die voor gewone bewoners betekenis hebben.",
+      "body": "Wcw, Wgiw, warmtekavels, eindgebruikerskosten. De warmtesector praat in afkortingen en systeemtaal die voor ingewijden vanzelfsprekend zijn, maar de meeste Nederlanders volledig buitensluiten. Zeestraten noemt dit ronduit een probleem, want de uitvoeringsfase vraagt juist brede participatie.\n\nNederland bevindt zich op een kantelpunt. Na jaren van experimenteren en plannen gaat de fase van grootschalige uitvoering beginnen. Dat vergt een ander communicatietype: niet meer uitleggen wat de warmtetransitie is, maar laten zien hoe die eruitziet in concrete straten, huizen en energierekeningen.\n\nVoorbeelden uit Noord-Holland tonen dat het kan. Complexe materie vertaald in begrijpelijke verhalen leidt tot meer begrip, minder weerstand en betere besluitvorming op wijkniveau. Plannen die alleen voor ingewijden leesbaar zijn, helpen niet bij het bereiken van de doelstelling dat alle gebouwen in 2050 aardgasvrij zijn.",
+      "woorden": 145,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/van-abracadabra-naar-aha",
+          "type": "extern",
+          "datum_publicatie": "2026-04-02",
+          "img_url": "https://www.nplw.nl/uploads/Eenmalig-gebruik/2026/_840x470_crop_center-center_80_none/52412/Microfoon_in_raadszaal_Utrecht.webp"
+        }
+      ],
+      "pijlers": ["sociaal-domein", "beleid-NL"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W15-05",
+      "categorie": "Sociaal domein & bewoners",
+      "titel": "Huurders praten vaker mee, maar missen echte invloed bij corporaties",
+      "lead": "Woningcorporaties betrekken huurders steeds vaker bij besluitvorming, maar die participatie blijft in veel gevallen een formaliteit zonder werkelijke doorwerking.",
+      "body": "Analyse van 36 woningcorporaties door de Stichting Visitatie Woningcorporaties Nederland laat een consistent patroon zien: huurders worden uitgenodigd om mee te denken, maar pas als plannen al grotendeels vastliggen. Meedenken wordt dan een formaliteit, geen echte invloed.\n\nHet fundamentele probleem is een verwachtingsverschil. Huurders verstaan participatie als meebeslissen. Corporaties bedoelen informeren en raadplegen. Die kloof leidt tot frustratie aan beide kanten en verzwakt het vertrouwen op de lange termijn.\n\nVoor de warmtetransitie is dit relevant. Corporaties voeren ingrijpende verduurzamingsmaatregelen door in huurwoningen. Wie bewoners te laat betrekt, riskeert weerstand, klachten en vertraging. Vroeg betrekken leidt aantoonbaar tot betere plannen, minder conflicten en meer draagvlak voor de uitvoering.\n\nDe Woonbond bepleit dat corporaties verder gaan dan de wettelijke minimumverplichtingen voor huurdersparticipatie.",
+      "woorden": 145,
+      "bronnen": [
+        {
+          "naam": "Woonbond",
+          "url": "https://www.woonbond.nl/nieuws/huurders-praten-vaker-mee-maar-missen-invloed/",
+          "type": "extern",
+          "datum_publicatie": "2026-04-09",
+          "img_url": "https://www.woonbond.nl/wp-content/uploads/2023/07/persberichten_default.jpg"
+        }
+      ],
+      "pijlers": ["sociaal-domein", "beleid-NL"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W15-06",
+      "categorie": "Projecten & praktijk",
+      "titel": "Regio's delen personeel voor de warmtetransitie: lessen uit de praktijk",
+      "lead": "Platform31 onderzocht hoe zes regio's schaarse capaciteit bundelen voor energie- en warmtetransitie en welke samenwerkingsvormen in de praktijk het beste werken.",
+      "body": "Het personeelstekort in de warmtetransitie is geen tijdelijk probleem. Gemeenten, provincies en waterschappen concurreren om dezelfde schaarse professionals, terwijl de opgave de komende jaren alleen maar groter wordt. Sommige regio's zoeken de oplossing in samenwerking: gedeelde flexpools, gemeenschappelijke regelingen of detacheringconstructies.\n\nPlatform31 heeft zes regio's gevolgd die hun ervaringen open deelden. De publicatie organiseert bevindingen rond vier keuzegebieden: de samenwerkingsvorm, de financiering, de operationele uitvoering en de personeelsconstructie. Per variant worden voor- en nadelen beschreven en wordt inzichtelijk gemaakt waar regio's in de praktijk tegenaan lopen.\n\nDe kern van de les is dat er geen universeel recept bestaat. Wat werkt hangt af van de schaal van de samenwerking, het vertrouwen tussen partners en de vraag of de opgave structureel of tijdelijk is. De publicatie helpt andere regio's sneller bepalen welke aanpak bij hun situatie past.",
+      "woorden": 155,
+      "bronnen": [
+        {
+          "naam": "Platform31",
+          "url": "https://www.platform31.nl/artikelen/arbeidscapaciteit-delen-in-de-energie-en-warmtetransitie-lessen-uit-de-praktijk/",
+          "type": "extern",
+          "datum_publicatie": "2026-03-30",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["projecten", "beleid-NL"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    }
+  ],
+  "verwerking": {
+    "model": "claude-sonnet-4-6",
+    "bronnen_gescand": ["NPLW", "RVO", "Woonbond", "Platform31"],
+    "sociaal_domein_artikelen": 3,
+    "notities": "RVO-nieuws niet bereikbaar via directe URL, NPLW en Woonbond en Platform31 goed beschikbaar. 3 sociaal-domein artikelen opgenomen (Energiehuis, taalgebruik, huurdersparticipatie)."
+  }
+}
