@@ -13,7 +13,9 @@
     "Huurders praten vaker mee bij woningcorporaties, maar missen echte invloed op beslissingen.",
     "Platform31 publiceert praktijklessen over het delen van personeel tussen regio's in de warmtetransitie.",
     "Kabinet werkt langs drie sporen aan aanpak netcongestie; wachtrij voor aansluitingen telt nog circa 14.000 verzoeken.",
-    "WeLabs en TKI Urban Energy pleiten voor nationaal EMS-programma om versnippering van energiebeheersystemen aan te pakken."
+    "WeLabs en TKI Urban Energy pleiten voor nationaal EMS-programma om versnippering van energiebeheersystemen aan te pakken.",
+    "Tien pilotprojecten met ZLT mini-warmtenetten voor 10-30 woningen in uitvoering in Utrecht en Zuid-Holland.",
+    "WarmtelinQ start aanleg 25 kilometer leidingen voor Rotterdamse restwarmte naar 50.000 aansluitingen in Rijswijk-Leiden."
   ],
   "artikelen": [
     {
@@ -178,12 +180,50 @@
       ],
       "pijlers": ["netcongestie", "smart-grid", "technologie-systeem"],
       "truth_check": { "status": "verified", "opmerkingen": "Rapport 'Nationaal EMS Programma', WeLabs/TKI Urban Energy, maart 2026. Handmatig toegevoegd vanuit lokale PDF." }
+    },
+    {
+      "id": "2026-W15-09",
+      "categorie": "Projecten & praktijk",
+      "titel": "Mini-warmtenetten: collectieve ZLT op kleine schaal in uitvoering",
+      "lead": "Tien pilotprojecten met mini-warmtenetten voor 10 tot 30 woningen zijn in uitvoering in Utrecht en Zuid-Holland. De systemen koppelen individuele warmtepompen aan gedeelde grondslingers of oppervlaktewaterbronnen.",
+      "body": "Mini-warmtenetten zijn een kleinschalig alternatief voor de grote stadsverwarmingsprojecten. In plaats van centrale infrastructuur met hoge aanlegkosten wordt gewerkt met een gedeelde bron — grondslingers of oppervlaktewater — waarop individuele water-waterwarmtepompen per woning worden aangesloten. Energie van Utrecht en Energie Samen Zuid-Holland trekken tien pilotprojecten, elk met 10 tot 30 woningen. Begeleiding is in handen van Next2Company en regionale natuur- en milieufederaties.\n\nHet centrale principe is: kleiner en eenvoudiger is haalbaarder. Een zwaardere variant met een mini-warmtecentrale blijkt in de meeste pilotcontexten financieel niet rond te rekenen. De lichte variant — individuele warmtepompen op een gemeenschappelijke broninstallatie — is de aanpak die nu wordt getest.\n\nDe organisatorische vorm is minstens zo bepalend als de technologie. Twee modellen worden onderzocht: mandeligheid, gezamenlijk eigendom van de broninstallatie via kadastrale registratie, en een ESCo-constructie waarbij een externe beheerder de installatie exploiteert. Resultaten worden verwacht eind 2026 of begin 2027.",
+      "woorden": 130,
+      "bronnen": [
+        {
+          "naam": "Stichting Warmtenetwerk",
+          "url": "https://www.warmtenetwerk.nl/nieuws",
+          "type": "extern",
+          "datum_publicatie": "2026-03-27",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["ZLT", "projecten"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W15-10",
+      "categorie": "Projecten & praktijk",
+      "titel": "WarmtelinQ begint aanleg 25 kilometer leidingen naar Rijswijk en Leiden",
+      "lead": "WarmtelinQ is in maart gestart met de aanleg van 25 kilometer ondergrondse transportleiding die Rotterdamse restwarmte naar circa 50.000 aansluitingen in de regio Rijswijk-Leiden moet brengen.",
+      "body": "Op vijf gelijktijdige werklocaties — Rijswijk-Wilhelminapark, langs de A4 bij Zoeterwoude, twee locaties in Den Haag en Leiden-Stevenshof — wordt gewerkt aan de ondergrondse leidingen. Aannemers A.Hak en Hanab voeren de werkzaamheden uit met drie methoden: gestuurde boring onder infrastructuur, perstechniek in veengebied en conventionele sleufaanleg. Een boring van 1.562 meter is de langste in het totale project. Oplevering is voorzien in 2028.\n\nWarmtelinQ vervoert restwarmte vanuit de Rotterdamse haven naar woningen en bedrijven in de regio. Het einddoel is 50.000 aansluitingen. Voor de warmtetransitie in de betrokken wijken is dit het infrastructurele fundament — zonder transportnet geen aansluiting van bestaande bouw op collectieve warmte.\n\nHet project is relevant als benchmark voor wat grootschalige HT-transportinfrastructuur vraagt aan doorlooptijd, aanlegkosten en technische keuzes. Dat geeft ook inzicht in het comparatief voordeel van kleinschaliger LT- en ZLT-alternatieven die dit soort transportinfrastructuur niet nodig hebben.",
+      "woorden": 145,
+      "bronnen": [
+        {
+          "naam": "Stichting Warmtenetwerk",
+          "url": "https://www.warmtenetwerk.nl/nieuws/start-aanleg-warmtelinq-rijswijk-leiden",
+          "type": "extern",
+          "datum_publicatie": "2026-03-12",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["projecten", "beleid-HT-MT"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
     }
   ],
   "verwerking": {
     "model": "claude-sonnet-4-6",
-    "bronnen_gescand": ["NPLW", "RVO", "Woonbond", "Platform31", "Ministerie van Klimaat en Groene Groei", "WeLabs / TKI Urban Energy"],
+    "bronnen_gescand": ["NPLW", "RVO", "Woonbond", "Platform31", "Stichting Warmtenetwerk", "Ministerie van Klimaat en Groene Groei", "WeLabs / TKI Urban Energy"],
     "sociaal_domein_artikelen": 3,
-    "notities": "RVO-nieuws niet bereikbaar via directe URL, NPLW en Woonbond en Platform31 goed beschikbaar. 3 sociaal-domein artikelen opgenomen (Energiehuis, taalgebruik, huurdersparticipatie). 2 artikelen handmatig toegevoegd vanuit lokale PDF-bronnen: Kamerbrief netcongestie (KGG/101340766, okt 2025) en Nationaal EMS Programma (WeLabs/TKI, maart 2026)."
+    "notities": "RVO-nieuws niet bereikbaar via directe URL. 3 sociaal-domein artikelen opgenomen. 2 handmatige PDF-bronnen toegevoegd (Kamerbrief netcongestie, EMS-rapport). 2 projecten-in-uitvoering artikelen toegevoegd: mini-warmtenetten ZLT (Warmtenetwerk, mrt 27) en WarmtelinQ aanlegstart (mrt 12). Gesignaleerd voor W16: Geothermie Delft (start warmtelevering, mrt 16) en publiek warmtebedrijf Leidse regio (Alliander+NDW+6 gemeenten, mrt 3)."
   }
 }

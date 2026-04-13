@@ -378,7 +378,7 @@
     }
   },
   "generated_at": "2026-04-13T08:00:00.000000+00:00",
-  "totaal": 25,
+  "totaal": 31,
   "nieuwe_bronnen_2026-W15": [
     {
       "url": "https://www.nplw.nl/nieuws/handreiking-uitvoeringsparagraaf-beschikbaar",
@@ -487,6 +487,60 @@
       "referentie": "Nationaal EMS Programma, WeLabs / TKI Urban Energy, maart 2026",
       "pijlers": ["netcongestie", "smart-grid", "technologie-systeem"],
       "edities": ["2026-W15"]
+    },
+    {
+      "url": "https://www.warmtenetwerk.nl/nieuws",
+      "naam": "Stichting Warmtenetwerk",
+      "categorie": "Projecten & praktijk",
+      "artikel_titel": "Mini-warmtenetten klaar voor verdere uitrol",
+      "editie_id": "2026-W15",
+      "weeknummer": 16,
+      "jaar": 2026,
+      "datum_publicatie": "2026-03-27",
+      "img_url": "",
+      "pijlers": ["ZLT", "projecten"],
+      "edities": ["2026-W15"]
+    },
+    {
+      "url": "https://www.warmtenetwerk.nl/nieuws/start-aanleg-warmtelinq-rijswijk-leiden",
+      "naam": "Stichting Warmtenetwerk",
+      "categorie": "Projecten & praktijk",
+      "artikel_titel": "Start aanleg WarmtelinQ Rijswijk–Leiden",
+      "editie_id": "2026-W15",
+      "weeknummer": 16,
+      "jaar": 2026,
+      "datum_publicatie": "2026-03-12",
+      "img_url": "",
+      "pijlers": ["projecten", "beleid-HT-MT"],
+      "edities": ["2026-W15"]
+    },
+    {
+      "url": "https://www.warmtenetwerk.nl/nieuws/geothermie-delft-start-warmtelevering",
+      "naam": "Stichting Warmtenetwerk / Geothermie Delft",
+      "categorie": "Projecten & praktijk",
+      "artikel_titel": "Geothermie Delft start warmtelevering TU Delft en DUWO",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-03-16",
+      "img_url": "",
+      "pijlers": ["projecten"],
+      "edities": [],
+      "notitie": "Gesignaleerd voor W16. Eerste warmtelevering geothermie Delft, TU Campus + 6.000 woningen in 2 jaar, uiteindelijk 15.000 aansluitingen."
+    },
+    {
+      "url": "https://www.alliander.com/nl/nieuws/samenwerkingsovereenkomst-voor-publiek-warmtebedrijf-leidse-regio/",
+      "naam": "Alliander",
+      "categorie": "Projecten & praktijk",
+      "artikel_titel": "Samenwerkingsovereenkomst publiek warmtebedrijf Leidse regio",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-03-03",
+      "img_url": "",
+      "pijlers": ["projecten", "beleid-NL"],
+      "edities": [],
+      "notitie": "Gesignaleerd voor W16. 6 gemeenten + NDW + Alliander, kwartiermakersfase, target 100.000 aansluitingen. Oprichting warmtebedrijf verwacht 2027."
     }
   ]
 }

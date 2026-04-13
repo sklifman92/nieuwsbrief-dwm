@@ -748,7 +748,7 @@ function ArtikelLeesvenster({ artikel, editieId }) {
         <p className="leesvenster__lead">{artikel.lead}</p>
 
         {/* Feedback */}
-        <ArtikelFeedback artikelId={artikel.id} editieId={editieId} />
+        <ArtikelFeedback key={artikel.id} artikelId={artikel.id} editieId={editieId} />
 
         {/* Accentlijn in categoriekleur */}
         <div className="leesvenster__lijn" style={{ "--cat-kleur": kleur }} />
