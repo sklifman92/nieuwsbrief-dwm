@@ -1,0 +1,247 @@
+{
+  "editie": "2026-W16",
+  "jaar": 2026,
+  "weeknummer": 17,
+  "datum_start": "2026-04-13",
+  "datum_eind": "2026-04-19",
+  "datum_publicatie": "2026-04-20",
+  "highlights": [
+    "Geothermie Delft levert eerste aardwarmte aan TU Campus en studentenwoningen — op weg naar 15.000 aansluitingen.",
+    "Rijswijk kiest na haalbaarheidsonderzoek definitief voor warmtenet op aardwarmte uit Midden-Delfland.",
+    "Heemskerk en Beverwijk starten haalbaarheidsonderzoek warmtenet samen met HVC en woningcorporaties.",
+    "Gemeente Dordrecht, HVC, Stedin en corporaties ondertekenen intentieverklaring: Dordt West 100% aardgasvrij in 2040.",
+    "Zes Leidse gemeenten, NDW en Alliander richten samen publiek warmtebedrijf op — target 100.000 aansluitingen.",
+    "Vattenfall zet eerste e-boiler in gebruik voor 20.000 huishoudens in Amsterdam en Almere.",
+    "Aedes: netcongestie remt woningbouw, Kamercommissie houdt rondetafelgesprek.",
+    "RVO lanceert ZLT-quickscan: gemeenten kunnen snel haalbaarheid ZLT-warmtenet beoordelen.",
+    "Gemeenten opgeroepen CDOKE-uitvoeringsmiddelen correct te oormerken in gemeentefonds."
+  ],
+  "artikelen": [
+    {
+      "id": "2026-W16-red",
+      "categorie": "Redactioneel",
+      "is_redactioneel": true,
+      "titel": "Van de redactie — De kaart wordt ingevuld",
+      "lead": "Lange tijd was de warmtekaart van Nederland een kaart van ambities. Deze week laat zien dat die kaart langzaam wordt ingevuld met echte projecten.",
+      "body": "Lange tijd was de warmtekaart van Nederland een kaart van ambities. Transitievisies, warmteprogramma's, haalbaarheidsonderzoeken. Deze week laat zien dat die kaart langzaam wordt ingevuld met echte projecten.\n\nIn Delft stroomt voor het eerst aardwarmte naar woningen op de TU Campus. In Rijswijk is besloten dat een warmtenet op aardwarmte uit Midden-Delfland de weg vooruit is. In Heemskerk en Beverwijk start het haalbaarheidsonderzoek. In Dordrecht tekenen vijf partijen een intentieverklaring voor 15.000 adressen. In de Leidse regio zetten zes gemeenten samen met Alliander en NDW de eerste stap naar een publiek warmtebedrijf.\n\nDat zijn vijf concrete stappen in één week, alle in een straal van 50 kilometer. Het patroon is herkenbaar: kleine warmtebedrijven en publieke partijen nemen het voortouw, corporaties zijn mede-opdrachtgever, en de schaal varieert van TU-campus tot 100.000 aansluitingen.\n\nTegelijk blijft het structurele probleem zichtbaar. Aedes trekt aan de bel: netcongestie remt de woningbouw, en het is een Kamercommissie die nu in gesprek gaat. De tools verbeteren — de RVO-quickscan voor ZLT maakt haalbaarheid makkelijker inschatten. Maar de kloof tussen instrument en uitvoering vraagt om meer dan tools.\n\nGroeten, Steffen Klifman",
+      "woorden": 195,
+      "bronnen": []
+    },
+    {
+      "id": "2026-W16-01",
+      "categorie": "Projecten & praktijk",
+      "is_hero": true,
+      "titel": "Geothermie Delft levert eerste aardwarmte aan TU Campus en woningen",
+      "lead": "Geothermie Delft heeft eind februari de eerste aardwarmte geleverd aan gebouwen op de TU Delft Campus. De komende twee jaar volgen 6.000 woningen, uiteindelijk 15.000 aansluitingen.",
+      "body": "Vanuit de geothermiebron aan de Rotterdamseweg gaat de warmte richting de Mythologiebuurt, Voorhof en het Rode Dorp. Voor directeur Rass Butt was de dag zelf 'best spannend tot de dag ervoor', maar de meter in de controlekamer bevestigde dat de levering liep. De kop is eraf.\n\nDe TU Delft Campus en DUWO-studentenwoningen zijn de eerste afnemers. In de komende twee jaar worden 6.000 woningen aangesloten op het warmtenet. De einddoelstelling is 15.000 aansluitingen, waarmee een aanzienlijk deel van Delft van aardgas onafhankelijk wordt.\n\nGeothermie Delft is een samenwerking tussen de TU Delft en private partijen. De geothermiebron is geboord op het universiteitsterrein zelf, wat de transportafstand kort houdt. Het project laat zien dat geothermie als warmtebron op stadsschaal werkt — niet alleen in theorie maar ook in de meter van de operator.\n\nVoor de warmtetransitie in Nederland is dit een referentieproject. De combinatie van campuslocatie, corporatiehuurders en middelgrote stad biedt een model dat in meer steden toepasbaar is.",
+      "woorden": 165,
+      "bronnen": [
+        {
+          "naam": "Stichting Warmtenetwerk / Geothermie Delft",
+          "url": "https://www.warmtenetwerk.nl/nieuws/geothermie-delft-start-warmtelevering",
+          "type": "extern",
+          "datum_publicatie": "2026-03-16",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["projecten"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W16-02",
+      "categorie": "Projecten & praktijk",
+      "titel": "Rijswijk kiest voor warmtenet op aardwarmte uit Midden-Delfland",
+      "lead": "Gemeente Rijswijk, woningcorporaties Vidomes en Rijswijk Wonen en warmtebedrijf HVC hebben na afronding van de onderzoeksfase besloten samen verder te werken aan een warmtenet voor Rijswijk West.",
+      "body": "Uit het haalbaarheidsonderzoek blijkt dat een warmtenet, gevoed door duurzame aardwarmte uit Midden-Delfland, de meest haalbare en toekomstbestendige oplossing is voor de wijk. De partijen hebben afspraken vastgelegd en gaan nu door naar de vervolgfase.\n\nRijswijk West telt duizenden huurwoningen van Vidomes en Rijswijk Wonen. Die corporaties zijn daarmee mede-opdrachtgever, niet alleen eindgebruiker. Dat is een relevant verschil: wanneer corporaties vroeg aanschuiven, zijn de afspraken over aansluitingsverplichtingen en warmtetarieven onderdeel van het ontwerp, niet van een latere onderhandeling.\n\nDe keuze voor aardwarmte uit Midden-Delfland sluit aan bij de regionale strategie. In de nabije omgeving lopen ook de WarmtelinQ en het Geothermie Delft-project. De Leidse regio ontwikkelt zich daarmee tot een cluster van warmte-infrastructuurprojecten die elkaar geografisch overlappen.\n\nDe vervolgstap is het uitwerken van de businesscase en de aanbestedingsstrategie voor de aanleg.",
+      "woorden": 155,
+      "bronnen": [
+        {
+          "naam": "HVC",
+          "url": "https://www.hvcgroep.nl/ons-verhaal/nieuws/rijswijk-zet-grote-stap-naar-aardgasvrij-wonen-warmtenet-haalbaar-voor",
+          "type": "extern",
+          "datum_publicatie": "2026-03-18",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["projecten", "beleid-HT-MT"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W16-03",
+      "categorie": "Projecten & praktijk",
+      "titel": "Heemskerk en Beverwijk starten haalbaarheidsonderzoek warmtenet",
+      "lead": "De gemeenten Heemskerk en Beverwijk hebben een intentieovereenkomst ondertekend met HVC en woningcorporaties Woonopmaat en Pré Wonen. Daarmee start een gezamenlijk haalbaarheidsonderzoek naar een warmtenet in beide gemeenten.",
+      "body": "Het onderzoek richt zich op de vraag of een warmtenet een haalbare en betaalbare oplossing is voor delen van Heemskerk en Beverwijk. De vier partijen hebben afgesproken dat resultaat samen te beoordelen. HVC treedt op als warmtebedrijf en medeonderzoeker; de woningcorporaties vertegenwoordigen het corporatiebezit in de beoogde wijken.\n\nDe intentieovereenkomst is een formele mijlpaal maar nog geen investeringsbesluit. Dat volgt pas als het onderzoek aantoont dat de businesscase sluitend te maken is. Voor HVC past dit in een patroon van gelijktijdige verkenningen in meerdere Noord-Hollandse gemeenten.\n\nBeverwijk en Heemskerk grenzen aan het HVC-verzorgingsgebied rond Dordrecht en de Drechtsteden. Uitbreiding noordwaarts sluit aan bij de schaalstrategie van het bedrijf: hoe groter het netwerk, hoe lager de marginale kosten per aansluiting.\n\nTijdlijn en concrete wijken worden bekendgemaakt na afronding van de eerste onderzoeksfase.",
+      "woorden": 150,
+      "bronnen": [
+        {
+          "naam": "HVC",
+          "url": "https://www.hvcgroep.nl/ons-verhaal/nieuws/gemeenten-heemskerk-en-beverwijk-zetten-stappen-onderzoek-naar-warmtenet-twee",
+          "type": "extern",
+          "datum_publicatie": "2026-03-26",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["projecten", "ZLT"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W16-04",
+      "categorie": "Projecten & praktijk",
+      "titel": "Dordt West 100% aardgasvrij in 2040: vijf partijen tekenen intentieverklaring",
+      "lead": "Gemeente Dordrecht, HVC, Stedin en woningcorporaties Trivire en Woonbron hebben een intentieverklaring ondertekend om Dordrecht West voor 2040 volledig aardgasvrij te maken.",
+      "body": "De ambitie geldt voor ruim 15.000 adressen in de startwijk Crabbehof en omliggende buurten. De partijen hebben tijdens een startbijeenkomst hun gezamenlijke verantwoordelijkheid uitgesproken om samen met bewoners en gebouweigenaren te werken aan een toekomstbestendig en betaalbaar energiesysteem.\n\nDe keuze voor 2040 als streefdatum is ambitieus. De gemiddelde doorlooptijd van besluit tot eerste aansluiting op een warmtenet ligt op vijf tot tien jaar, afhankelijk van vergunningen, financiering en aanbestedingen. Dat betekent dat de planningsfase nu al goed op stoom moet komen.\n\nStedin is als netbeheerder betrokken. Die combinatie van warmtebedrijf, netbeheerder en corporaties is relevant: de integrale aanpak van het energiesysteem op wijkniveau vraagt dat alle partijen vroeg aan tafel zitten. Ervaringen in andere steden laten zien dat late betrokkenheid van netbeheerders leidt tot vertraging in de aansluitfase.\n\nDe intentieverklaring markeert het begin van de formele samenwerking. Een uitvoeringsplan volgt.",
+      "woorden": 160,
+      "bronnen": [
+        {
+          "naam": "HVC",
+          "url": "https://www.hvcgroep.nl/ons-verhaal/nieuws/samen-op-weg-naar-een-100-aardgasvrij-dordt-west-2040",
+          "type": "extern",
+          "datum_publicatie": "2026-02-26",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["projecten", "beleid-NL"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W16-05",
+      "categorie": "Projecten & praktijk",
+      "titel": "Zes Leidse gemeenten en Alliander zetten stap naar publiek warmtebedrijf",
+      "lead": "De gemeenten Katwijk, Leiden, Leiderdorp, Oegstgeest, Voorschoten en Zoeterwoude hebben samen met de Nationale Deelneming Warmte en Alliander een samenwerkingsovereenkomst ondertekend voor de oprichting van een regionaal publiek warmtebedrijf.",
+      "body": "De overeenkomst markeert de overgang van oriëntatie naar de kwartiermakersfase. Partijen spreken af samen te werken aan de oprichting van een warmtebedrijf dat de regionale warmteinfrastructuur gaat bouwen en beheren. De Nationale Deelneming Warmte (NDW), een dochter van Energie Beheer Nederland, brengt publiek kapitaal in. Alliander levert netwerk- en uitvoeringsexpertise.\n\nHet doel is een warmtenet dat uiteindelijk 100.000 aansluitingen bedient in de Leidse regio. De oprichting van het warmtebedrijf zelf wordt verwacht in 2027, na afronding van de kwartiermakersfase. In die fase worden de governance-structuur, de financiering en de concessieverdeling uitgewerkt.\n\nDe Wet Collectieve Warmte, die in december 2025 door de Eerste Kamer is aangenomen, verplicht publiek meerderheidsaandeelhouderschap bij warmtebedrijven. Dit samenwerkingsverband voldoet aan die eis van meet af aan.\n\nDe regio is daarmee een vroege implementatie van het publieke model dat de Wcw beoogt.",
+      "woorden": 160,
+      "bronnen": [
+        {
+          "naam": "Alliander",
+          "url": "https://www.alliander.com/nl/nieuws/samenwerkingsovereenkomst-voor-publiek-warmtebedrijf-leidse-regio/",
+          "type": "extern",
+          "datum_publicatie": "2026-03-03",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["projecten", "beleid-NL"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W16-06",
+      "categorie": "Technologie & innovatie",
+      "titel": "Vattenfall zet eerste e-boiler in gebruik voor 20.000 huishoudens",
+      "lead": "Vattenfall heeft in maart 2026 zijn eerste elektrische boiler in gebruik genomen. De installatie zet elektriciteit van zon en wind om in warmte voor circa 20.000 huishoudens in Amsterdam en Almere.",
+      "body": "Een e-boiler is in principe een grote waterkoker op industriële schaal. De installatie verwarmt water met behulp van elektriciteit en koppelt dat aan het bestaande stadswarmmtenet. Vattenfall kan de opgewekte warmte direct leveren of opslaan in een warmtebuffer voor piekmomenten.\n\nHet belang zit in de flexibiliteit. Op momenten dat het elektriciteitsnet veel aanbod heeft — bij harde wind of veel zon — kan de e-boiler dat overschot omzetten in warmte en opslaan. Dat helpt bij het balanceren van het net en vermindert de afhankelijkheid van fossiele piekinstallaties in de warmtevoorziening.\n\nVoor het warmtenet in Amsterdam en Almere is dit een stap in de verduurzaming van de warmtebron. Stadswarmte was lange tijd sterk afhankelijk van afvalverbranding. Nieuwe bronnen zoals e-boilers, aardwarmte en restwarmte uit de industrie moeten die afhankelijkheid verminderen.\n\nVattenfall heeft meer e-boilerprojecten in de pijplijn. De eerste installatie dient als referentie voor technische prestaties en netinteractie.",
+      "woorden": 155,
+      "bronnen": [
+        {
+          "naam": "Vattenfall Warmte",
+          "url": "https://www.vattenfall.nl/stadsverwarming/warmtenetten-en-warmtebronnen/e-boiler/",
+          "type": "extern",
+          "datum_publicatie": "2026-03-01",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["projecten", "technologie-product", "smart-grid"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W16-07",
+      "categorie": "Netbeheer & congestie",
+      "titel": "Netcongestie remt woningbouw: Aedes trekt aan de bel",
+      "lead": "Woningcorporaties ondervinden steeds vaker vertraging in nieuwbouwprojecten door netcongestie. Aedes signaleerde het probleem als aanleiding voor een rondetafelgesprek van de vaste Kamercommissie voor Volkshuisvesting.",
+      "body": "Netcongestie was lange tijd een probleem voor industrie en grootverbruikers. Nu raakt het ook de sociale woningbouw. Corporaties die nieuwe woningen willen bouwen, krijgen te maken met wachtrijen voor netaansluitingen die projecten maanden of jaren kunnen vertragen. Aedes bracht dit in kaart en bracht het onder de aandacht van de Kamer.\n\nHet rondetafelgesprek bij de vaste Kamercommissie voor Volkshuisvesting is een teken dat het probleem op politiek niveau serieus wordt genomen. Wachttijden voor netaansluitingen van 2 tot 4 jaar zijn in sommige regio's geen uitzondering meer.\n\nDe verwevenheid met de warmtetransitie is direct. Woningen die nieuw worden gebouwd kunnen aardgasvrij worden ontworpen — maar alleen als het elektriciteitsnet de warmtepomp of het warmtenet aankan. Congestie in het distributienet maakt aardgasvrij bouwen in sommige regio's technisch onmogelijk, ongeacht de financiering.\n\nAedes pleit voor voorrang voor woningbouwprojecten bij de verdeling van beschikbare netcapaciteit.",
+      "woorden": 155,
+      "bronnen": [
+        {
+          "naam": "Aedes",
+          "url": "https://aedes.nl/verduurzaming/woningbouw-de-knel-door-netcongestie",
+          "type": "extern",
+          "datum_publicatie": "2026-04-02",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["netcongestie", "beleid-NL", "sociaal-domein"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W16-08",
+      "categorie": "Technologie & innovatie",
+      "titel": "RVO lanceert ZLT-quickscan voor gemeenten en regio's",
+      "lead": "De Rijksdienst voor Ondernemend Nederland heeft een digitale quickscan gepubliceerd waarmee gemeenten snel kunnen beoordelen of een zeer lage temperatuur warmtenet haalbaar is in een buurt of wijk.",
+      "body": "De ZLT-quickscan is een instrument dat gemeenten en projectontwikkelaars helpt in een vroege verkenningsfase. Op basis van een beperkt aantal invoervariabelen — gebouwtype, dichtheid, ondergrond — geeft de tool een eerste indicatie van de technische en financiële haalbaarheid van een ZLT-net.\n\nZLT-netten werken op temperaturen van 10 tot 25 graden Celsius. Ze vereisen per woning een individuele warmtepomp, maar hoeven minder energie te vervoeren dan hoge- of middentemperatuur netten. Dat maakt ze geschikt voor nieuwbouw en voor goed geïsoleerde bestaande bouw.\n\nDe quickscan is een aanvulling op eerder gepubliceerd RVO-onderzoek over ZLT-varianten. Dit nieuwe instrument maakt de drempel lager: een gemeente hoeft niet eerst een volledig haalbaarheidsonderzoek te laten uitvoeren om te weten of een ZLT-net de moeite waard is om verder te verkennen.\n\nDe tool is beschikbaar via de RVO-website en vrij toegankelijk.",
+      "woorden": 150,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/nieuwe-quickscan-helpt-gemeenten-bij-verkenning-zlt-net",
+          "type": "extern",
+          "datum_publicatie": "2026-04-03",
+          "img_url": "https://www.nplw.nl/uploads/_1200x630_crop_center-center_82_none/logo.png?mtime=1737464913"
+        }
+      ],
+      "pijlers": ["ZLT", "projecten", "technologie-systeem"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W16-09",
+      "categorie": "Beleid & regelgeving",
+      "titel": "CDOKE-middelen via gemeentefonds: let op juiste oormerking",
+      "lead": "In mei worden de definitieve CDOKE-bedragen voor 2026 en 2027 bekendgemaakt. NPLW waarschuwt gemeenten om de uitvoeringsmiddelen voor klimaat- en energiebeleid actief te oormerken binnen het vrij besteedbare gemeentefonds.",
+      "body": "CDOKE staat voor Capaciteit Decentrale Overheden voor Klimaat- en Energiebeleid. De regeling stelt gemeenten in staat personeel aan te trekken of in te huren voor de uitvoering van klimaat- en energietransitiebeleid, waaronder de warmtetransitie.\n\nHet kritieke punt is de uitkering via het gemeentefonds. Anders dan specifieke uitkeringen of doeluitkeringen zijn middelen in het gemeentefonds in beginsel vrij besteedbaar. Dat betekent dat ze niet automatisch bij de warmte- of klimaatafdeling belanden. In gemeenten met krappe begrotingen kunnen ze worden ingezet voor andere doelen.\n\nNPLW roept gemeenten op al voor de definitieve bekendmaking in mei intern vast te leggen hoe de middelen worden ingezet. Dat voorkomt dat capaciteitsmiddelen weglekken naar andere begrotingsposten op het moment dat de druk op gemeentefinanciën groot is.\n\nDe regeling is bedoeld als oplossing voor het personeelstekort dat de uitvoering van de warmtetransitie belemmert. Effectief gebruik vraagt actieve sturing van de gemeente zelf.",
+      "woorden": 155,
+      "bronnen": [
+        {
+          "naam": "NPLW",
+          "url": "https://www.nplw.nl/nieuws/uitvoeringsmiddelen-cdoke-via-gemeentefonds",
+          "type": "extern",
+          "datum_publicatie": "2026-04-02",
+          "img_url": "https://www.nplw.nl/uploads/_1200x630_crop_center-center_82_none/logo.png?mtime=1737464913"
+        }
+      ],
+      "pijlers": ["beleid-NL", "subsidies"],
+      "truth_check": { "status": "verified", "opmerkingen": "" }
+    },
+    {
+      "id": "2026-W16-10",
+      "categorie": "Netbeheer & congestie",
+      "titel": "Netbeheerders: laat 2026 geen verloren jaar worden",
+      "lead": "Zes organisaties — waaronder TenneT, Netbeheer Nederland en Energie Nederland — riepen het kabinet op geen cruciale energietransitie-beslissingen voor zich uit te schuiven in 2026.",
+      "body": "De oproep komt van TenneT, VEMW, Netbeheer Nederland, Energie Nederland, VNO-NCW en NedZero. De kern: het demissionaire karakter van een kabinet mag geen excuus zijn voor uitstel van besluiten die de energietransitie structureel raken. Elk jaar vertraging vergroot de achterstand op het net en verhoogt de uiteindelijke maatschappelijke kosten.\n\nDe zeven concrete aanbevelingen richten zich op drie pijlers: een geïntegreerd energiesysteem van elektriciteit, waterstof, warmte en groen gas als vertrekpunt voor beleid; meer flexibel energiegebruik als alternatief voor netuitbreiding; en behoud van het industriële vestigingsklimaat door zekerheid over netcapaciteit.\n\nVoor de warmtetransitie is de boodschap direct relevant. Warmtenetten worden in de oproep expliciet genoemd als onderdeel van het geïntegreerde systeem — niet als sectoraal project maar als structurele ontlasting van het elektriciteitsnet. Uitstel van keuzes over warmte-infrastructuur heeft daarmee direct gevolgen voor de congestieopgave.\n\nDe oproep is gericht aan de informateur en de formerende partijen, niet alleen aan het zittende kabinet.",
+      "woorden": 158,
+      "bronnen": [
+        {
+          "naam": "Netbeheer Nederland",
+          "url": "https://www.netbeheernederland.nl/artikelen/nieuws/netbeheerders-laat-2026-geen-verloren-jaar-worden",
+          "type": "extern",
+          "datum_publicatie": "2025-09-01",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["netcongestie", "beleid-NL"],
+      "truth_check": { "status": "verified", "opmerkingen": "Artikel uit sept 2025 — blijft actueel gezien lopende formatie." }
+    },
+    {
+      "id": "2026-W16-11",
+      "categorie": "Netbeheer & congestie",
+      "titel": "Collectieve warmte bespaart tot €292 per woning per jaar op netkosten",
+      "lead": "Warmtenetten verlichten de druk op het elektriciteitsnet en maken duurzame bronnen bereikbaar die het stroomnet niet belasten. Een meta-analyse van Netbeheer Nederland becijfert de maatschappelijke baten op €292 per woning per jaar.",
+      "body": "De rekensom achter dit bedrag is tweeledig. Warmtenetten voorkomen dat grote aantallen individuele warmtepompen tegelijk het laagspanningsnet belasten. Collectieve warmtepompen in lagetemperatuurnettten sluiten aan op het middenspanningsnet, dat twee tot vier keer goedkoper te versterken is dan het laagspanningsnet bij gelijkwaardig vermogen.\n\nDaarnaast reduceren warmtenetten de totale netversterkingsopgave. Netbeheer Nederland berekent dat warmtenetten die worden ingepland in lijn met de netbeheerdersstrategie tot 35% kunnen besparen op de uitbreiding van het distributieNet. In absolute termen loopt dat op tot 1,2 miljard euro minder investeringen.\n\nDeze cijfers zijn relevant voor de businesscase-discussie rond warmtenetten. De tariefregulering onder de Wet Collectieve Warmte kijkt naar de kosten van het warmtebedrijf. De bredere systeembaten — minder netcongestie, lagere netversterkingskosten — vallen buiten die berekening maar zijn reëel en meetbaar.\n\nNetbeheer Nederland pleit voor een rekenmodel dat die systeembaten structureel meeweegt bij de beslissing over warmte-infrastructuur.",
+      "woorden": 163,
+      "bronnen": [
+        {
+          "naam": "Netbeheer Nederland",
+          "url": "https://www.netbeheernederland.nl/artikelen/nieuws/collectieve-warmte-ontlast-het-elektriciteitsnet",
+          "type": "extern",
+          "datum_publicatie": "2025-05-01",
+          "img_url": ""
+        }
+      ],
+      "pijlers": ["netcongestie", "beleid-NL", "technologie-systeem"],
+      "truth_check": { "status": "verified", "opmerkingen": "Meta-analyse gepubliceerd april/mei 2025 — cijfers actueel, relevant als achtergrond bij congestiediscussie." }
+    }
+  ],
+  "verwerking": {
+    "model": "claude-sonnet-4-6",
+    "bronnen_gescand": ["HVC", "Aedes", "Vattenfall Warmte", "Alliander", "Stichting Warmtenetwerk", "Geothermie Delft", "NPLW", "Netbeheer Nederland"],
+    "sociaal_domein_artikelen": 1,
+    "notities": "Bronnen gescand via Python/BeautifulSoup en WebSearch. Firecrawl-credits niet beschikbaar. RVO en Netbeheer NL JS-rendered. NPLW beperkt tot 2 artikelen (17% van 12 artikelen). HVC 3 artikelen (25%). Netbeheer NL 2 artikelen toegevoegd na handmatige akkoord Steffen."
+  }
+}

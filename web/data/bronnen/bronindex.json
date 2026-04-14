@@ -1,4 +1,141 @@
 {
+  "scan_bronnen": {
+    "richtlijn": "Scan alle bronnen hieronder wekelijks. Max 30% van de artikelen per editie mag van één bron komen. Streef naar minimaal 4 unieke bronnen per editie.",
+    "kern": [
+      {
+        "naam": "NPLW",
+        "url": "https://www.nplw.nl/nieuws",
+        "focus": "Warmteprogramma's, uitvoering gemeenten, transitievisies, projectondersteuning",
+        "type": "kern",
+        "max_aandeel_pct": 30
+      },
+      {
+        "naam": "RVO",
+        "url": "https://www.rvo.nl/nieuws",
+        "focus": "Subsidies, warmtenetten, energietransitie, rapportages",
+        "type": "kern",
+        "max_aandeel_pct": 30
+      },
+      {
+        "naam": "Warmtenetwerk",
+        "url": "https://www.warmtenetwerk.nl/nieuws",
+        "focus": "Projectnieuws warmtenetten, gunningen, openingen, technische updates",
+        "type": "kern"
+      },
+      {
+        "naam": "Energeia",
+        "url": "https://energeia.nl",
+        "focus": "Vakmedia: projectgunningen, marktbewegingen, concessies, warmtebedrijven",
+        "type": "kern"
+      }
+    ],
+    "sociaal": [
+      {
+        "naam": "Aedes",
+        "url": "https://aedes.nl/nieuws",
+        "focus": "Woningcorporaties, huurders, woonlasten, uitvoerbaarheid corporatiepraktijk",
+        "type": "sociaal"
+      },
+      {
+        "naam": "Woonbond",
+        "url": "https://www.woonbond.nl/nieuws",
+        "focus": "Huurdersperspectief, instemming, betaalbaarheid, rechten, draagvlak",
+        "type": "sociaal"
+      },
+      {
+        "naam": "Vereniging Eigen Huis",
+        "url": "https://www.eigenhuis.nl/nieuws",
+        "focus": "Particuliere woningeigenaren, kostenafwegingen, keuzevrijheid, vertrouwen",
+        "type": "sociaal"
+      },
+      {
+        "naam": "Milieu Centraal",
+        "url": "https://www.milieucentraal.nl/nieuws",
+        "focus": "Bewonersuitleg warmtenetten, isolatie, warmtepompen, gedragskant",
+        "type": "sociaal"
+      },
+      {
+        "naam": "Platform31",
+        "url": "https://www.platform31.nl/nieuws",
+        "focus": "Bewonersinitiatieven, participatie, wijkaanpak, energiearmoede, sociaal proces",
+        "type": "sociaal"
+      }
+    ],
+    "onderzoek": [
+      {
+        "naam": "TNO",
+        "url": "https://www.tno.nl/nl/newsroom",
+        "focus": "Woonlasten, sociale huur, adoptiegedrag, gebruikersimpact verduurzaming",
+        "type": "onderzoek"
+      },
+      {
+        "naam": "CE Delft",
+        "url": "https://ce.nl/publicaties",
+        "focus": "Systeemanalyse, kosten-baten, energiebeleid, marktdynamiek",
+        "type": "onderzoek"
+      },
+      {
+        "naam": "PBL",
+        "url": "https://www.pbl.nl/publicaties",
+        "focus": "Klimaatbeleid, woningmarkt, energiescenario's, voortgangsrapportages",
+        "type": "onderzoek"
+      },
+      {
+        "naam": "TKI Urban Energy",
+        "url": "https://www.tki-urbanenergy.nl/nieuws",
+        "focus": "Innovatieprogramma's, EMS, smart energy, demonstratieprojecten",
+        "type": "onderzoek"
+      }
+    ],
+    "projecten": [
+      {
+        "naam": "Vattenfall Warmte",
+        "url": "https://www.vattenfall.nl/over-vattenfall/pers",
+        "focus": "Projectnieuws, gunningen, aansluitingen, warmtenet Amsterdam/Rotterdam",
+        "type": "projecten"
+      },
+      {
+        "naam": "Eneco Warmte",
+        "url": "https://www.eneco.nl/over-eneco/nieuws",
+        "focus": "Warmtenet Den Haag, Leiden, nieuwe projecten",
+        "type": "projecten"
+      },
+      {
+        "naam": "Alliander / Liander",
+        "url": "https://www.alliander.com/nl/nieuws",
+        "focus": "Publieke warmtebedrijven, netuitbreiding, concessies",
+        "type": "projecten"
+      },
+      {
+        "naam": "HVC",
+        "url": "https://www.hvcgroep.nl/nieuws",
+        "focus": "Warmtenetten Noord-Holland, afvalwarmte, projecten Drechtsteden",
+        "type": "projecten"
+      },
+      {
+        "naam": "TenderNed",
+        "url": "https://www.tenderned.nl",
+        "focus": "Aanbestedingen warmtenetten, concessies, bouwvergunningen wijkverduurzaming",
+        "type": "projecten",
+        "zoektermen": ["warmtenet", "warmtelevering", "wijkverduurzaming", "aardgasvrij"]
+      }
+    ],
+    "beleid": [
+      {
+        "naam": "Rijksoverheid Kamerstukken",
+        "url": "https://www.rijksoverheid.nl/documenten/kamerstukken",
+        "focus": "Klimaat, energie, wonen — beleidsvoortgang, actieplannen, Kamerberichten",
+        "type": "kamerbrief",
+        "ministeries": ["Klimaat en Groene Groei", "BZK", "EZK"]
+      },
+      {
+        "naam": "Netbeheer Nederland",
+        "url": "https://www.netbeheernederland.nl/nieuws",
+        "focus": "Netcongestie, verzwaring, transportschaarste, systeemintegratie",
+        "type": "beleid"
+      }
+    ]
+  },
   "bronnen": [
     {
       "url": "https://www.nplw.nl/nieuws/laatste-sessie-ondersteuningsaanbod-warmteprogramma-in-de-regio-wees-erbij",
@@ -541,6 +678,130 @@
       "pijlers": ["projecten", "beleid-NL"],
       "edities": [],
       "notitie": "Gesignaleerd voor W16. 6 gemeenten + NDW + Alliander, kwartiermakersfase, target 100.000 aansluitingen. Oprichting warmtebedrijf verwacht 2027."
+    },
+    {
+      "url": "https://www.hvcgroep.nl/ons-verhaal/nieuws/gemeenten-heemskerk-en-beverwijk-zetten-stappen-onderzoek-naar-warmtenet-twee",
+      "naam": "HVC",
+      "categorie": "Projecten & praktijk",
+      "artikel_titel": "Heemskerk en Beverwijk zetten stappen in onderzoek naar warmtenet",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-03-26",
+      "img_url": "",
+      "pijlers": ["projecten", "ZLT"],
+      "edities": [],
+      "notitie": "Gesignaleerd voor W16. Gemeenten onderzoeken warmtenet in twee wijken via HVC."
+    },
+    {
+      "url": "https://www.hvcgroep.nl/ons-verhaal/nieuws/rijswijk-zet-grote-stap-naar-aardgasvrij-wonen-warmtenet-haalbaar-voor",
+      "naam": "HVC",
+      "categorie": "Projecten & praktijk",
+      "artikel_titel": "Rijswijk: warmtenet haalbaar voor Stervoorde en Hoekpolder",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-03-18",
+      "img_url": "",
+      "pijlers": ["projecten", "beleid-HT-MT"],
+      "edities": [],
+      "notitie": "Gesignaleerd voor W16. Gemeente Rijswijk, Vidomes en Rijswijk Wonen onderzoeken warmtenet met HVC."
+    },
+    {
+      "url": "https://www.hvcgroep.nl/ons-verhaal/nieuws/samen-op-weg-naar-een-100-aardgasvrij-dordt-west-2040",
+      "naam": "HVC",
+      "categorie": "Projecten & praktijk",
+      "artikel_titel": "Dordt West 100% aardgasvrij in 2040 — intentieverklaring ondertekend",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-02-26",
+      "img_url": "",
+      "pijlers": ["projecten", "beleid-NL"],
+      "edities": [],
+      "notitie": "Gesignaleerd voor W16. Gemeente Dordrecht, HVC, Stedin en woningcorporaties ondertekenen intentieverklaring aardgasvrij."
+    },
+    {
+      "url": "https://aedes.nl/verduurzaming/woningbouw-de-knel-door-netcongestie",
+      "naam": "Aedes",
+      "categorie": "Netbeheer & congestie",
+      "artikel_titel": "Woningbouw in de knel door netcongestie",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-04-02",
+      "img_url": "",
+      "pijlers": ["netcongestie", "beleid-NL", "sociaal-domein"],
+      "edities": [],
+      "notitie": "Gesignaleerd voor W16. Rondetafelgesprek Kamercommissie over netcongestie en woningbouw."
+    },
+    {
+      "url": "https://www.vattenfall.nl/stadsverwarming/warmtenetten-en-warmtebronnen/e-boiler/",
+      "naam": "Vattenfall Warmte",
+      "categorie": "Technologie & innovatie",
+      "artikel_titel": "Vattenfall E-boiler in gebruik: warmte voor 20.000 huishoudens Amsterdam en Almere",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-03-01",
+      "img_url": "",
+      "pijlers": ["projecten", "technologie-product", "smart-grid"],
+      "edities": [],
+      "notitie": "Gesignaleerd voor W16. Eerste e-boiler Vattenfall actief. Warmte van zon/wind opgeslagen in warmtebuffer. 20.000 huishoudens Amsterdam en Almere."
+    },
+    {
+      "url": "https://www.netbeheernederland.nl/artikelen/nieuws/netbeheerders-laat-2026-geen-verloren-jaar-worden",
+      "naam": "Netbeheer Nederland",
+      "categorie": "Netbeheer & congestie",
+      "artikel_titel": "Netbeheerders: laat 2026 geen verloren jaar worden",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-01-01",
+      "img_url": "",
+      "pijlers": ["netcongestie", "beleid-NL"],
+      "edities": [],
+      "notitie": "Gesignaleerd voor W16. Datum onzeker — handmatig verifiëren. Oproep aan politiek om voortgang niet te vertragen."
+    },
+    {
+      "url": "https://www.netbeheernederland.nl/artikelen/nieuws/collectieve-warmte-ontlast-het-elektriciteitsnet",
+      "naam": "Netbeheer Nederland",
+      "categorie": "Netbeheer & congestie",
+      "artikel_titel": "Collectieve warmte ontlast het elektriciteitsnet",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-01-01",
+      "img_url": "",
+      "pijlers": ["netcongestie", "beleid-NL", "technologie-systeem"],
+      "edities": [],
+      "notitie": "Gesignaleerd voor W16. Datum onzeker — handmatig verifiëren. Warmtenetten als oplossing voor overbelasting elektriciteitsnet."
+    },
+    {
+      "url": "https://www.nplw.nl/nieuws/nieuwe-quickscan-helpt-gemeenten-bij-verkenning-zlt-net",
+      "naam": "NPLW",
+      "categorie": "Technologie & innovatie",
+      "artikel_titel": "Nieuwe quickscan helpt gemeenten bij verkenning ZLT-net",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-04-03",
+      "img_url": "https://www.nplw.nl/uploads/_1200x630_crop_center-center_82_none/logo.png?mtime=1737464913",
+      "pijlers": ["ZLT", "projecten", "technologie-systeem"],
+      "edities": []
+    },
+    {
+      "url": "https://www.nplw.nl/nieuws/uitvoeringsmiddelen-cdoke-via-gemeentefonds",
+      "naam": "NPLW",
+      "categorie": "Beleid & regelgeving",
+      "artikel_titel": "Uitvoeringsmiddelen (CDOKE) via gemeentefonds: let op juiste toewijzing",
+      "editie_id": "gesignaleerd-W16",
+      "weeknummer": 17,
+      "jaar": 2026,
+      "datum_publicatie": "2026-04-02",
+      "img_url": "https://www.nplw.nl/uploads/_1200x630_crop_center-center_82_none/logo.png?mtime=1737464913",
+      "pijlers": ["beleid-NL", "subsidies"],
+      "edities": []
     }
   ]
 }

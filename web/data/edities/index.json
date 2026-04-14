@@ -1,7 +1,20 @@
 {
   "generated_at": "2026-04-13T08:00:00.000000+00:00",
-  "latest": "2026-W15",
+  "latest": "2026-W16",
   "edities": [
+    {
+      "id": "2026-W16",
+      "jaar": 2026,
+      "weeknummer": 17,
+      "datum_publicatie": "2026-04-20",
+      "status": "concept",
+      "aantal_artikelen": 12,
+      "path": "data/edities/2026-W16/editie.json",
+      "review_status": "concept",
+      "klaar_voor_publicatie": false,
+      "artikelen_met_blokkers": 0,
+      "reviewed_at": null
+    },
     {
       "id": "2026-W15",
       "jaar": 2026,
