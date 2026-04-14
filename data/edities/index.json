@@ -5,15 +5,15 @@
     {
       "id": "2026-W16",
       "jaar": 2026,
-      "weeknummer": 17,
-      "datum_publicatie": "2026-04-20",
-      "status": "concept",
+      "weeknummer": 16,
+      "datum_publicatie": "2026-04-13",
+      "status": "gepubliceerd",
       "aantal_artikelen": 12,
       "path": "data/edities/2026-W16/editie.json",
-      "review_status": "concept",
-      "klaar_voor_publicatie": false,
+      "review_status": "gepubliceerd",
+      "klaar_voor_publicatie": true,
       "artikelen_met_blokkers": 0,
-      "reviewed_at": null
+      "reviewed_at": "2026-04-13T08:00:00.000000+00:00"
     },
     {
       "id": "2026-W15",
